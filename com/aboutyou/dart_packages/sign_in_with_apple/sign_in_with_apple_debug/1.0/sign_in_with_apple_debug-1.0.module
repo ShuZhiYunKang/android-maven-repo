@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.aboutyou.dart_packages.sign_in_with_apple",
+    "module": "sign_in_with_apple_debug",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sign_in_with_apple_debug-1.0.aar",
+          "url": "sign_in_with_apple_debug-1.0.aar",
+          "size": 9617,
+          "sha512": "b237bebdc8cd7f58dd52063ecf98e97a0aaa1c9ad8d013589ef658a12c10ed4c1027042eff9bdce65bc7ac1edd7c315746e6500e8e71ee939fc1b18e82096890",
+          "sha256": "6d9d273fbfb6519b271ee398ee5e2cd675323a4a73c320b39f6244e6239599fe",
+          "sha1": "d91681e23f82fc33f944c2e7597e864131c56bc9",
+          "md5": "be2bb6955dab5ee536e0be403d826820"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sign_in_with_apple_debug-1.0.aar",
+          "url": "sign_in_with_apple_debug-1.0.aar",
+          "size": 9617,
+          "sha512": "b237bebdc8cd7f58dd52063ecf98e97a0aaa1c9ad8d013589ef658a12c10ed4c1027042eff9bdce65bc7ac1edd7c315746e6500e8e71ee939fc1b18e82096890",
+          "sha256": "6d9d273fbfb6519b271ee398ee5e2cd675323a4a73c320b39f6244e6239599fe",
+          "sha1": "d91681e23f82fc33f944c2e7597e864131c56bc9",
+          "md5": "be2bb6955dab5ee536e0be403d826820"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sign_in_with_apple_debug-1.0-sources.jar",
+          "url": "sign_in_with_apple_debug-1.0-sources.jar",
+          "size": 2730,
+          "sha512": "232813b66653332be1825dda86c44197be6a6e5c4db974c29b5e382607c23c3453837625416f9ae13f991ba92f998f99dc25155e699a146881cd86e42431b316",
+          "sha256": "3f74fc332e872fbcfdc3245f838f6f2e4704e5b0c6a0c865417757fad32ab9b4",
+          "sha1": "227ee9e1b8ad1d2663b181163fd2a12db200cd6a",
+          "md5": "57be615d4366529cd2aa5385e32ef800"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sign_in_with_apple_debug-1.0-javadoc.jar",
+          "url": "sign_in_with_apple_debug-1.0-javadoc.jar",
+          "size": 312432,
+          "sha512": "cb404e310bbe26b58889000d747f97387bdacde81342a072f1ecb461b4d38da981c1f60f11d3bb63ed73d2d7b8964155af404eaa7d7a3bd816172eb97e00fc71",
+          "sha256": "f57c92741bd5398e8ded43a19eb4f36f3a4f897056566034c5ea71d7c79e7784",
+          "sha1": "31f22ebeae550a0eb84cf584cbaa3d0b8f464c75",
+          "md5": "086d9b4f9e114db44068de808797ef04"
+        }
+      ]
+    }
+  ]
+}
