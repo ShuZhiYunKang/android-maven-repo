@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "flutter.plugins.vibrate.vibrate",
+    "module": "flutter_vibrate_debug",
+    "version": "1.16",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_vibrate_debug-1.16.aar",
+          "url": "flutter_vibrate_debug-1.16.aar",
+          "size": 3681,
+          "sha512": "5136e169113bd4aa3d06c73e36ae69913e7d261afab62c98104e345781a76b5a02804d544ca7ddf0d2f78375d4657ca690a019e59b39fc006e077f8998c0bc64",
+          "sha256": "02499c4701fafa3f31b8b6803a982204a1ed166b7a68803a5cab2637285a9a87",
+          "sha1": "307bb69f3179d650dcb939665ca496efd3e4abcf",
+          "md5": "fddc228c72d2f99bbcb500ae9a19ea58"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_vibrate_debug-1.16.aar",
+          "url": "flutter_vibrate_debug-1.16.aar",
+          "size": 3681,
+          "sha512": "5136e169113bd4aa3d06c73e36ae69913e7d261afab62c98104e345781a76b5a02804d544ca7ddf0d2f78375d4657ca690a019e59b39fc006e077f8998c0bc64",
+          "sha256": "02499c4701fafa3f31b8b6803a982204a1ed166b7a68803a5cab2637285a9a87",
+          "sha1": "307bb69f3179d650dcb939665ca496efd3e4abcf",
+          "md5": "fddc228c72d2f99bbcb500ae9a19ea58"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_vibrate_debug-1.16-sources.jar",
+          "url": "flutter_vibrate_debug-1.16-sources.jar",
+          "size": 1967,
+          "sha512": "2586770f0be1e54ac7f7a03a2641413481ac1170046251246117092f974102397e861b204aca23528f9c6b231031e16649a67cf6771823cc2ed998283efb87a4",
+          "sha256": "28cf596b26bb4be2fd662f9bba3e50f24c71f843541eeecea39b6078a6be8a0c",
+          "sha1": "4c90ba38e5002383f51b8567a8abd543c8e0b2d2",
+          "md5": "30a9866af3f0e29515fc6553d214236c"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_vibrate_debug-1.16-javadoc.jar",
+          "url": "flutter_vibrate_debug-1.16-javadoc.jar",
+          "size": 261832,
+          "sha512": "ff85efba508411cdd608ecf83932d6cb3d299a95b229d30f78aa0be5ae93aa6a9d36b4ef1ad5bbb38e81ef560b05daa6f21b84974f441ed2776ca8e5516a612c",
+          "sha256": "9d9108a91bea952185cd91678a07ccd4956c67191216bda750a0e94a3c801a55",
+          "sha1": "2d8bb9176e207b7b12ae8c970d17ac7c69192b46",
+          "md5": "3a4061e6eee7d9a66606fb52a80a2167"
+        }
+      ]
+    }
+  ]
+}

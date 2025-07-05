@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.fluttercandies.photo_manager",
+    "module": "photo_manager_debug",
+    "version": "1.16",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "photo_manager_debug-1.16.aar",
+          "url": "photo_manager_debug-1.16.aar",
+          "size": 195370,
+          "sha512": "97f3974930e7500fe8df9f6732f99255a9caf98e6dbaa1fdbf67bed6c17eaffee808929dda19a38a2713e884c58b3b5e7787181a93c20d1a937f820963ece899",
+          "sha256": "a4b863908660101ced27812626785cd3565f61c183bec9b18f722cf2bc31769f",
+          "sha1": "acf70cd46f15128abd5384b7782c99eab2a26642",
+          "md5": "40d3444b3dfb0b9d58d7affbb617d6b4"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.15.1"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.7"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "photo_manager_debug-1.16.aar",
+          "url": "photo_manager_debug-1.16.aar",
+          "size": 195370,
+          "sha512": "97f3974930e7500fe8df9f6732f99255a9caf98e6dbaa1fdbf67bed6c17eaffee808929dda19a38a2713e884c58b3b5e7787181a93c20d1a937f820963ece899",
+          "sha256": "a4b863908660101ced27812626785cd3565f61c183bec9b18f722cf2bc31769f",
+          "sha1": "acf70cd46f15128abd5384b7782c99eab2a26642",
+          "md5": "40d3444b3dfb0b9d58d7affbb617d6b4"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "photo_manager_debug-1.16-sources.jar",
+          "url": "photo_manager_debug-1.16-sources.jar",
+          "size": 48937,
+          "sha512": "a6783be651555e3a89ea6f62b51e4d2d7324c3d4e98b1e7d42f15fac344506ef0691b3e6117abc7939197a529961e5cd51d07eeecfcfbe1ee971b9fc9ad82051",
+          "sha256": "7a17149533e8f9b2a858cd11d946b55d5b84c0ebb9f73174ba0c24fb794182e6",
+          "sha1": "3321fe6d23305392e3d2ce701bcdb1399e7e94f3",
+          "md5": "2faea80851057d113d95cbe62ca59b57"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "photo_manager_debug-1.16-javadoc.jar",
+          "url": "photo_manager_debug-1.16-javadoc.jar",
+          "size": 517167,
+          "sha512": "0eb56a953666885a505ca5bc1ed3bb0d2a2a4438d244ab8fea68cd688a51a776610f15a66a273e1bf76d8d231cffa8a24d8cdbc59400a9787c28a51bae27e94f",
+          "sha256": "3e6ec920d711f3c84bf4754bfbd7641556163eb59a7ef75cc170d3a484d366df",
+          "sha1": "0dbcf9e35856fbfd1b509f8ebf757a8de57d3e08",
+          "md5": "7eaac45fca47a5c82dc25f0871f935dc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.inapppurchase",
+    "module": "in_app_purchase_android_debug",
+    "version": "1.16",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "in_app_purchase_android_debug-1.16.aar",
+          "url": "in_app_purchase_android_debug-1.16.aar",
+          "size": 117244,
+          "sha512": "4d1800b53c46793ad01b85a266fbfbb3d625f10c752ea139330e0d77e9ca2bc26c965890e0fe87642b0a77160d268beff120dea08d5f97ce77f4ff04e55421ca",
+          "sha256": "f92a0427341a4a4404c267a0fa255c666d81a817698b5ed16a0da7988bb91500",
+          "sha1": "c29585972bf6da3a9098df89478b9f98cf99a517",
+          "md5": "cab49093b39671d241267fa31c3138b6"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "com.android.billingclient",
+          "module": "billing",
+          "version": {
+            "requires": "7.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "in_app_purchase_android_debug-1.16.aar",
+          "url": "in_app_purchase_android_debug-1.16.aar",
+          "size": 117244,
+          "sha512": "4d1800b53c46793ad01b85a266fbfbb3d625f10c752ea139330e0d77e9ca2bc26c965890e0fe87642b0a77160d268beff120dea08d5f97ce77f4ff04e55421ca",
+          "sha256": "f92a0427341a4a4404c267a0fa255c666d81a817698b5ed16a0da7988bb91500",
+          "sha1": "c29585972bf6da3a9098df89478b9f98cf99a517",
+          "md5": "cab49093b39671d241267fa31c3138b6"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "in_app_purchase_android_debug-1.16-sources.jar",
+          "url": "in_app_purchase_android_debug-1.16-sources.jar",
+          "size": 25625,
+          "sha512": "77f100438e6911a6cc10e5bd79ca8385d9faca8fe1b941bb24715ab681136219cb09b90a4f4685d8928e173fbd073f7395411a8b3246001ab009e9815f77b15f",
+          "sha256": "569fc96b1d9ef1a9f1637a30d410e37dda22f97e0c82ad28a5a8b5543174a191",
+          "sha1": "cbdf9d75d0d9269575089ef55e6dcfeac578b268",
+          "md5": "e078e61dbc1eab829e2e8caef48bbb72"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "in_app_purchase_android_debug-1.16-javadoc.jar",
+          "url": "in_app_purchase_android_debug-1.16-javadoc.jar",
+          "size": 498373,
+          "sha512": "6bb390ff254ca01c605f2bcfdbd4a8473442bcf259536b5cc05e854bd4ccc50d424de9355325e985c0e8d893ace3e13f1063c20379cabc50866143a8e8cc0ffe",
+          "sha256": "59e12e0a5617b1db8d483373296d6a6b3275128c516de5253ff5587046608333",
+          "sha1": "2deb19c3733dcb797cf516c0cf29677eb979105c",
+          "md5": "6148c97ab9cafbe12b1943ff70952b7e"
+        }
+      ]
+    }
+  ]
+}
