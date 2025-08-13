@@ -25,9 +25,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.example</groupId>
-      <artifactId>my-lib</artifactId>
-      <version>1.0</version>
+      <groupId>com.lm</groupId>
+      <artifactId>chipletRing</artifactId>
+      <version>1.0.72</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

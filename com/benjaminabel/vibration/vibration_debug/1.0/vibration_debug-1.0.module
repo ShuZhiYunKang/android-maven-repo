@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.benjaminabel.vibration",
+    "module": "vibration_debug",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_debug-1.0.aar",
+          "url": "vibration_debug-1.0.aar",
+          "size": 5594,
+          "sha512": "b0477cd0e0a02029f9190eb651682f67522f4ade4f2dbac497012d7250cec2644f6cd3a485f9a210508819df97fc5e287adb02b433bb103677ebf185f0d94659",
+          "sha256": "362f519c07e6f5dbfe6f870597300aaba969345aec7ac56462ca0f1b9ef207e8",
+          "sha1": "6b30b44d219b6360d3ce616ebc20f3a684a06e67",
+          "md5": "94d27158fd5075ff93d31ab069d0c52b"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_debug-1.0.aar",
+          "url": "vibration_debug-1.0.aar",
+          "size": 5594,
+          "sha512": "b0477cd0e0a02029f9190eb651682f67522f4ade4f2dbac497012d7250cec2644f6cd3a485f9a210508819df97fc5e287adb02b433bb103677ebf185f0d94659",
+          "sha256": "362f519c07e6f5dbfe6f870597300aaba969345aec7ac56462ca0f1b9ef207e8",
+          "sha1": "6b30b44d219b6360d3ce616ebc20f3a684a06e67",
+          "md5": "94d27158fd5075ff93d31ab069d0c52b"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_debug-1.0-sources.jar",
+          "url": "vibration_debug-1.0-sources.jar",
+          "size": 3055,
+          "sha512": "384eb290f3959fdee7c259a16e1644ce0676709e1319436f231a1522a548ce0da6c9c7cb04a44b1f3456d50b0488a26d7d80341b6469032740a43a3b226217cc",
+          "sha256": "70496470796b88fca44d8fc2ef720ac6bec89b83bbfdefe956dd680a981d8ab6",
+          "sha1": "daa83f1f05e9c60ae716519b35e89d79487faf04",
+          "md5": "6c40e406630f8b8a8285a64427b965be"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_debug-1.0-javadoc.jar",
+          "url": "vibration_debug-1.0-javadoc.jar",
+          "size": 265463,
+          "sha512": "107e4aac7970dca5d9f64718a2ada3e64387c270f316c86d63f5cbc7fd0e64e42dfc335095fc3e0f41db69f6fa6dbd05b076b23e39732e9a9cd4f8bec0a5bfff",
+          "sha256": "43b6204cf55225229d69771c7c314d95bb8ab53761d2595b1e8624ff1e43ade4",
+          "sha1": "2ba09fa6114b58b8a4dfcd6be220d9c32c1de8e0",
+          "md5": "f0c9627cebdab73dfb49970ffbb0ddae"
+        }
+      ]
+    }
+  ]
+}

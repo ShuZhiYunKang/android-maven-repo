@@ -3,11 +3,11 @@
   <groupId>com.fluttercandies.flutter_image_compress</groupId>
   <artifactId>flutter_image_compress_common_debug</artifactId>
   <versioning>
-    <latest>1.16</latest>
-    <release>1.16</release>
+    <latest>1.0</latest>
+    <release>1.0</release>
     <versions>
-      <version>1.16</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20250704085327</lastUpdated>
+    <lastUpdated>20250813080120</lastUpdated>
   </versioning>
 </metadata>

@@ -35,11 +35,11 @@
         {
           "name": "flutter_inappwebview_android_debug-1.0.aar",
           "url": "flutter_inappwebview_android_debug-1.0.aar",
-          "size": 539467,
-          "sha512": "a1e3018519a015e146165a2433e6525abaa7a02753e4d2bc90fb074595ed4f6a433afdd7a8a3b2afacf430cf21f339f4ea0452d3caa35d2ec80199c128b930f2",
-          "sha256": "a873a603e8398eeb6f18889f266c61763edfca91ce12628a1da8629000e75c7d",
-          "sha1": "aaf75832bb07b91faa0b96dbad44831d0202a4c7",
-          "md5": "b7ee4d191804b35099d1b48a02327cf4"
+          "size": 539460,
+          "sha512": "47a24010b92ff1f359e19691b91db2dfc716cd382c2b6342ede605f33f54c2d195a9e0c6c74973359134ad0cd152246a8657d98ac898b0797f344b5269c1a52e",
+          "sha256": "f17371712589624a1c5ace41fa6165f904cfbc308ec4377d305e5506de37da8d",
+          "sha1": "6816b15dfc9cb2ca989a5eaca06512c49ea0e963",
+          "md5": "e9df42457e00bb49623445b2459aa571"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "flutter_inappwebview_android_debug-1.0.aar",
           "url": "flutter_inappwebview_android_debug-1.0.aar",
-          "size": 539467,
-          "sha512": "a1e3018519a015e146165a2433e6525abaa7a02753e4d2bc90fb074595ed4f6a433afdd7a8a3b2afacf430cf21f339f4ea0452d3caa35d2ec80199c128b930f2",
-          "sha256": "a873a603e8398eeb6f18889f266c61763edfca91ce12628a1da8629000e75c7d",
-          "sha1": "aaf75832bb07b91faa0b96dbad44831d0202a4c7",
-          "md5": "b7ee4d191804b35099d1b48a02327cf4"
+          "size": 539460,
+          "sha512": "47a24010b92ff1f359e19691b91db2dfc716cd382c2b6342ede605f33f54c2d195a9e0c6c74973359134ad0cd152246a8657d98ac898b0797f344b5269c1a52e",
+          "sha256": "f17371712589624a1c5ace41fa6165f904cfbc308ec4377d305e5506de37da8d",
+          "sha1": "6816b15dfc9cb2ca989a5eaca06512c49ea0e963",
+          "md5": "e9df42457e00bb49623445b2459aa571"
         }
       ]
     },
@@ -113,10 +113,10 @@
           "name": "flutter_inappwebview_android_debug-1.0-sources.jar",
           "url": "flutter_inappwebview_android_debug-1.0-sources.jar",
           "size": 231367,
-          "sha512": "39e7bab5ae4e86a0f762af35f4a3b428c7bed967108a81dd6b731a225daacec4ee60976a9c6f374b169dc545a84eac0a9ef97acb5833c964b81f7a6b9250ee3f",
-          "sha256": "48bd11608d04ea6b5f2f91795ddc66f364fdb0b591680cb989cf2462be853553",
-          "sha1": "4d5670c4fcb1bc6e4abc987cb1d470f60cb333a0",
-          "md5": "2370669b7ebb349e7e5198f2e0e32601"
+          "sha512": "724dc195bfbe4b28d89808344871daa160afad873ef68cf45446c7367b99b3bef629039bef0c408ae62bce6321f437f389b09520366a50be43d8a6628dbee098",
+          "sha256": "516e4f125d631258bc8b2fcddcbe2cc80259886899125edb9cb7bb536d2d0603",
+          "sha1": "a1de5e80df1e9c9ddbb81872d908bc2abb82ddde",
+          "md5": "8d71034285687670dcf185251ed6d329"
         }
       ]
     },
@@ -132,11 +132,11 @@
         {
           "name": "flutter_inappwebview_android_debug-1.0-javadoc.jar",
           "url": "flutter_inappwebview_android_debug-1.0-javadoc.jar",
-          "size": 1170791,
-          "sha512": "37166363c6f553d804ad56fe4b68c2859dc3a4e5a23580dc253b1cd0030897d12c8706862967168da153681b9796d661b1ca31e508ab8aee9e41eebf207730be",
-          "sha256": "7a48c333a58cd91f45949b3b590d222ee07063445e7e10ef39b6ae452f168db0",
-          "sha1": "1414b230f940edcad884d55818e11d85adad8b80",
-          "md5": "1cbffdcac7adec10f82a4ab2229ac44e"
+          "size": 1167524,
+          "sha512": "e92546ef24b030f163869ca5b52ccd018ee4f9074d72f0de05b342454f39333f2bc679e9276380af162b20f70e5f8b273833609f137b7262548f19cbfcff0187",
+          "sha256": "ac5983613dea069ba9f0781b3b3a1e576fb81a2e803247054b1f6256a0ecd651",
+          "sha1": "22125174c4ffbf56deebbaa92498c1a16919c33c",
+          "md5": "d0cad60e464417ba8e1f32f7857c813d"
         }
       ]
     }

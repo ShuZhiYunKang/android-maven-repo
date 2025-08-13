@@ -42,11 +42,11 @@
         {
           "name": "yongxin_ring_debug-1.0.aar",
           "url": "yongxin_ring_debug-1.0.aar",
-          "size": 46741,
-          "sha512": "dd0352c4e0ca2bb0d5ab25921582fe61b25e5dea42cae39864730924503524c70c6d61d78806e83a6960400e980507dd612ee703754ff3d5dbaa5e3e883955be",
-          "sha256": "e46a6f08afc6d77bd837f565cf3144f9a5dd508bf197cd94d6b2cfb001303038",
-          "sha1": "3308dea5b784feaeea9b5dfd807657735c44bcbb",
-          "md5": "6b2b7f4960ea266fd5e03e85ad2eb7e6"
+          "size": 59279,
+          "sha512": "83cdb229f4eee43a38338134fd74a0c71a20a7d88a44c1eff9a8fad4a4aea3b0a599748a139df1248bee0986cd9c47d122617edfe41fd8e8883348232c0688b2",
+          "sha256": "4fed1bec937357c0b9c7a7f372656f50d96de8aabbafa6c50c7d337b5d53c760",
+          "sha1": "3cf3dbd67fab0b08c1c11b6c1fa55915b3e14819",
+          "md5": "a23069b71f88550d4e92e6a4887f9d21"
         }
       ]
     },
@@ -67,10 +67,10 @@
           }
         },
         {
-          "group": "com.example",
-          "module": "my-lib",
+          "group": "com.lm",
+          "module": "chipletRing",
           "version": {
-            "requires": "1.0"
+            "requires": "1.0.72"
           }
         },
         {
@@ -148,11 +148,11 @@
         {
           "name": "yongxin_ring_debug-1.0.aar",
           "url": "yongxin_ring_debug-1.0.aar",
-          "size": 46741,
-          "sha512": "dd0352c4e0ca2bb0d5ab25921582fe61b25e5dea42cae39864730924503524c70c6d61d78806e83a6960400e980507dd612ee703754ff3d5dbaa5e3e883955be",
-          "sha256": "e46a6f08afc6d77bd837f565cf3144f9a5dd508bf197cd94d6b2cfb001303038",
-          "sha1": "3308dea5b784feaeea9b5dfd807657735c44bcbb",
-          "md5": "6b2b7f4960ea266fd5e03e85ad2eb7e6"
+          "size": 59279,
+          "sha512": "83cdb229f4eee43a38338134fd74a0c71a20a7d88a44c1eff9a8fad4a4aea3b0a599748a139df1248bee0986cd9c47d122617edfe41fd8e8883348232c0688b2",
+          "sha256": "4fed1bec937357c0b9c7a7f372656f50d96de8aabbafa6c50c7d337b5d53c760",
+          "sha1": "3cf3dbd67fab0b08c1c11b6c1fa55915b3e14819",
+          "md5": "a23069b71f88550d4e92e6a4887f9d21"
         }
       ]
     },
@@ -168,11 +168,11 @@
         {
           "name": "yongxin_ring_debug-1.0-sources.jar",
           "url": "yongxin_ring_debug-1.0-sources.jar",
-          "size": 9101,
-          "sha512": "ce250c28ee88266023a21d9563d7887ce46497610c848a759997fb4165d9c7452c46235f5647d2f3bfbada34695b00959bd8e9f2167178bcb14ebcfe2965f46f",
-          "sha256": "19eee7ae003fa024318a6eb3ed558330cad8ff624d5f06b947c8e755ed809b39",
-          "sha1": "f8f47f19efd55c122311d4c82e6ef7393d0f5b04",
-          "md5": "bc175341e5eac084c3b76d66a881ab19"
+          "size": 11716,
+          "sha512": "72b960c9e147d6751bf0669f791b55ed0437dab4cd7f94bc36622decba04bf66ed789a390a4e7ce5733f4add47a56fb6fa56068e2a89cb97c943d6a6e2e18c62",
+          "sha256": "033e64ff4dd55c4a7525008346496720018969229431433d893721aa72e67963",
+          "sha1": "ab6f36f0c28851bee0243bfe4b278bc21bdd4f39",
+          "md5": "022da9b50767e388248cef9d55f66bd2"
         }
       ]
     },
@@ -188,11 +188,11 @@
         {
           "name": "yongxin_ring_debug-1.0-javadoc.jar",
           "url": "yongxin_ring_debug-1.0-javadoc.jar",
-          "size": 301393,
-          "sha512": "cf30f1e68f3a16f3176e4397b69912d9a795f2959c42234393886f89b81cbb4a2fef184651ea9533cec17ee67a7cba9f1df165602dc88c916a9c73144c60ee84",
-          "sha256": "9271a17033425b99b2c57f22aba440f6b0bcfea56d86c72c04e7b56c8c9682de",
-          "sha1": "13779c77c75e10a27a277aa3ce821e6e00273c4d",
-          "md5": "63009f332a87c542301a0f7a1be1cee7"
+          "size": 301293,
+          "sha512": "2835cf76ea6a9e59b3a55671d67aa93cfa3fddfd026d4740702b820997aed520476cb5d2e01f26507ea0362f422c8121443b06b63bec335cdb7f4eeb3c114163",
+          "sha256": "9fc8828abd412b3053f77bc823abe0c718c0970c15c427685e60148532b7f758",
+          "sha1": "ed9b3bccc0ce828393dc566614f7e965e986f22a",
+          "md5": "520aa38f36a05f89867ccc62cdcd2f41"
         }
       ]
     }

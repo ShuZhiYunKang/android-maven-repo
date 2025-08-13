@@ -35,11 +35,11 @@
         {
           "name": "sqflite_android_debug-1.0.aar",
           "url": "sqflite_android_debug-1.0.aar",
-          "size": 45459,
-          "sha512": "57d6c665c629d68f9e4e94c458e9603a48c281113ef0883ca54889d191a9b8ff52b8e1f1f28cdc79d0fb7c08bada74719c91e2a0ff028549c0e88f25d69d98ff",
-          "sha256": "003b02e275c7987dea4000bc39aa47bc8bd7674541b69d8b4c2306a680a52a04",
-          "sha1": "078cb5ea9edbb34619002fcee5ab98a14d35c8c9",
-          "md5": "1224fb7a5a317cc68f9f691842b0c75c"
+          "size": 45455,
+          "sha512": "c0b56513eff28ed4e31cf9f0acd8637b3f8e7172e3dca789cd9977afaea8c7d451b2b70a3f0dc493dfb2e778152ea337e5aabe56f6ee20d764d2259eff977ba0",
+          "sha256": "2b7a2398b153e0866eb83f03a63259a1b938ae00879c1ea7baad427cb077d1d3",
+          "sha1": "9b4625bcf87dcabcb0544a8c08a53d21f9016fb9",
+          "md5": "26b1ebb6725e9ec71991d2d7282be061"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "sqflite_android_debug-1.0.aar",
           "url": "sqflite_android_debug-1.0.aar",
-          "size": 45459,
-          "sha512": "57d6c665c629d68f9e4e94c458e9603a48c281113ef0883ca54889d191a9b8ff52b8e1f1f28cdc79d0fb7c08bada74719c91e2a0ff028549c0e88f25d69d98ff",
-          "sha256": "003b02e275c7987dea4000bc39aa47bc8bd7674541b69d8b4c2306a680a52a04",
-          "sha1": "078cb5ea9edbb34619002fcee5ab98a14d35c8c9",
-          "md5": "1224fb7a5a317cc68f9f691842b0c75c"
+          "size": 45455,
+          "sha512": "c0b56513eff28ed4e31cf9f0acd8637b3f8e7172e3dca789cd9977afaea8c7d451b2b70a3f0dc493dfb2e778152ea337e5aabe56f6ee20d764d2259eff977ba0",
+          "sha256": "2b7a2398b153e0866eb83f03a63259a1b938ae00879c1ea7baad427cb077d1d3",
+          "sha1": "9b4625bcf87dcabcb0544a8c08a53d21f9016fb9",
+          "md5": "26b1ebb6725e9ec71991d2d7282be061"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "sqflite_android_debug-1.0-javadoc.jar",
           "url": "sqflite_android_debug-1.0-javadoc.jar",
-          "size": 342087,
-          "sha512": "b1f019cf6c535d5503746b8549e8689d16b8bde46bc1c41cc6ba983718871f39524fc590170ea5af8413cba2c717b50a2cde66620f2d64ccc3a6bc35ac93bb74",
-          "sha256": "9aef72e7533975d4961659d8f6a7aad8f5d81b48ee55d159b8054850d57e1dbb",
-          "sha1": "e6d28089196421e0e83d7e8402c3e717071b226c",
-          "md5": "5f264ba3d0d45330fb574e5612c484f9"
+          "size": 341634,
+          "sha512": "8dd8b4a3f1bfc04f653dd232b68b0d47b59ac154532bdcf693cfcead41ff7d5a68ea6c5f4d1f3fce314c47541cbc13c95e1ef5c3bd3156f1cc49b0b2e20938c0",
+          "sha256": "577feff6d6ab98689f0c788d05ca55df67ef7b3e0328baa9747cd3d9633e3e41",
+          "sha1": "0e0be68127ec673a38ec735818c0fb7f698a7e9d",
+          "md5": "5f65e45af1a55bbd6100792cef06951e"
         }
       ]
     }

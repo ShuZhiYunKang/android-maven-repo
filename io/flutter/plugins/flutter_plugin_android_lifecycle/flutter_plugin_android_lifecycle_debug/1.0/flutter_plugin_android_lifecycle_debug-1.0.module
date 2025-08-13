@@ -35,11 +35,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_debug-1.0.aar",
           "url": "flutter_plugin_android_lifecycle_debug-1.0.aar",
-          "size": 2526,
-          "sha512": "56675cbdd6b48dc0aa313e77c25386e81821c54981bb6e5661523adfff6bf791e22fa93193a35b48dc1dd720a400b1ec99bef26efec028cc7fc380c1ec9f4aaa",
-          "sha256": "4b5d28407767e457f9d9812a2678eb2d88337eeb8e84ffe92938bafdc3ab9ee7",
-          "sha1": "57da3b0edb0e6d94a40150484d369747e16223a3",
-          "md5": "9d1a7169e4ff890edac2408ba9969ee6"
+          "size": 2524,
+          "sha512": "b21840dcb042f7be2040ab1420b6c8f0f7301e643e2b9accf59794f6fa3da93b5e9721ab3a06da2dfd4125b7766ce5f5452b9e0fbadb5da31781ce8a641dfaf9",
+          "sha256": "cab30cb60abec69763d9f42a67389646fda6e4231cc7b9944ca71bb5de58b49e",
+          "sha1": "0dde317eee4cab05afe1c5d104d97ef2fb4bd51c",
+          "md5": "2e58d5ed515325ecee88a1935290331b"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_debug-1.0.aar",
           "url": "flutter_plugin_android_lifecycle_debug-1.0.aar",
-          "size": 2526,
-          "sha512": "56675cbdd6b48dc0aa313e77c25386e81821c54981bb6e5661523adfff6bf791e22fa93193a35b48dc1dd720a400b1ec99bef26efec028cc7fc380c1ec9f4aaa",
-          "sha256": "4b5d28407767e457f9d9812a2678eb2d88337eeb8e84ffe92938bafdc3ab9ee7",
-          "sha1": "57da3b0edb0e6d94a40150484d369747e16223a3",
-          "md5": "9d1a7169e4ff890edac2408ba9969ee6"
+          "size": 2524,
+          "sha512": "b21840dcb042f7be2040ab1420b6c8f0f7301e643e2b9accf59794f6fa3da93b5e9721ab3a06da2dfd4125b7766ce5f5452b9e0fbadb5da31781ce8a641dfaf9",
+          "sha256": "cab30cb60abec69763d9f42a67389646fda6e4231cc7b9944ca71bb5de58b49e",
+          "sha1": "0dde317eee4cab05afe1c5d104d97ef2fb4bd51c",
+          "md5": "2e58d5ed515325ecee88a1935290331b"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "flutter_plugin_android_lifecycle_debug-1.0-javadoc.jar",
           "url": "flutter_plugin_android_lifecycle_debug-1.0-javadoc.jar",
-          "size": 269936,
-          "sha512": "8e090ed573a2d0bb955b556e2a48535c6d93fd040ea11eadce4669169086091e6e6519720e49ae55357d6b99e4e2a74553d1ee05012e1e7ea3044e9e0f3614d0",
-          "sha256": "c1cb2f8e94b039a101c6b6235a7432bcc33a521defa54fb9dc42f6fc21022348",
-          "sha1": "868c7cff19aa6f593a8d1f7e4ffac63d81c512de",
-          "md5": "76df1e951cac4ac70868150a3f88ae0c"
+          "size": 269824,
+          "sha512": "605d70f3aadf20a81faf2d66b92228404a35593deaea4db210bc60fc23bedef640a748b2b75946de1a161788f66780ec5eb134a651272b6f0c8b7677d9f5b0d9",
+          "sha256": "91c513402a3eae0a149c75b64ff8e580c8e90e560a99e7f5583f4f2489c76f6d",
+          "sha1": "cc432994050df65ba1efe849e243797e8953cc71",
+          "md5": "37fd5147acc1eb36961d7172612f2c44"
         }
       ]
     }

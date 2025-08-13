@@ -35,11 +35,11 @@
         {
           "name": "in_app_purchase_android_debug-1.0.aar",
           "url": "in_app_purchase_android_debug-1.0.aar",
-          "size": 117244,
-          "sha512": "4d1800b53c46793ad01b85a266fbfbb3d625f10c752ea139330e0d77e9ca2bc26c965890e0fe87642b0a77160d268beff120dea08d5f97ce77f4ff04e55421ca",
-          "sha256": "f92a0427341a4a4404c267a0fa255c666d81a817698b5ed16a0da7988bb91500",
-          "sha1": "c29585972bf6da3a9098df89478b9f98cf99a517",
-          "md5": "cab49093b39671d241267fa31c3138b6"
+          "size": 117240,
+          "sha512": "57cead5293c5b05e792cd0dda41c54fc954c63be45721c42c1d5dd0b8be7ae0e482bb4148f774a759f868b0e574d5f1f31f20f29953b824e71d797aebee5be23",
+          "sha256": "abc8c013cbb267845f0f1c0a221f7eda43adbc430ee8532975c50d5c68f522da",
+          "sha1": "a952fcce5ad32b84935a3777693ca3f2f0a56745",
+          "md5": "49661029da4df971f9ea0d3de56412d7"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "in_app_purchase_android_debug-1.0.aar",
           "url": "in_app_purchase_android_debug-1.0.aar",
-          "size": 117244,
-          "sha512": "4d1800b53c46793ad01b85a266fbfbb3d625f10c752ea139330e0d77e9ca2bc26c965890e0fe87642b0a77160d268beff120dea08d5f97ce77f4ff04e55421ca",
-          "sha256": "f92a0427341a4a4404c267a0fa255c666d81a817698b5ed16a0da7988bb91500",
-          "sha1": "c29585972bf6da3a9098df89478b9f98cf99a517",
-          "md5": "cab49093b39671d241267fa31c3138b6"
+          "size": 117240,
+          "sha512": "57cead5293c5b05e792cd0dda41c54fc954c63be45721c42c1d5dd0b8be7ae0e482bb4148f774a759f868b0e574d5f1f31f20f29953b824e71d797aebee5be23",
+          "sha256": "abc8c013cbb267845f0f1c0a221f7eda43adbc430ee8532975c50d5c68f522da",
+          "sha1": "a952fcce5ad32b84935a3777693ca3f2f0a56745",
+          "md5": "49661029da4df971f9ea0d3de56412d7"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "in_app_purchase_android_debug-1.0-javadoc.jar",
           "url": "in_app_purchase_android_debug-1.0-javadoc.jar",
-          "size": 498281,
-          "sha512": "08a00fc44821cb31325b73b54006193a7aa5d4c489d5322bfcc0cb64a1b251c4cf4008bea02fb0353e235894e84e69d3b513d5ee3437f74fe43b59c0cc82faa6",
-          "sha256": "4f9ea564f01153a33d7fd040d7fe68ec4c58e6a8fcc1f7cda386495f46546d5a",
-          "sha1": "99d799ca2a6fd8400b37e584db782fb08d8d1755",
-          "md5": "275172136fb09a3acf8384f383316e40"
+          "size": 496919,
+          "sha512": "39e22b7d75f3ed0e0a92a2065d51c7747a7053a34fe4de9b3786454f204f71934f176021bbd944881757abb24451bd53f082e1b09f4224ae89581512a6989a96",
+          "sha256": "2149466c8ad2ee48645098a025be3da31db0f575814c33c2d5b5998bf3718a65",
+          "sha1": "f9bce48f996db38051ae2ca131611452992ff24e",
+          "md5": "938a930b354ddac43adf13cdf7ad4604"
         }
       ]
     }

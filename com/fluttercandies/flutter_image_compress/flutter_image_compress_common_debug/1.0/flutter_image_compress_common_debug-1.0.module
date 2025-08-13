@@ -42,11 +42,11 @@
         {
           "name": "flutter_image_compress_common_debug-1.0.aar",
           "url": "flutter_image_compress_common_debug-1.0.aar",
-          "size": 31525,
-          "sha512": "85b76bb19dc698654de368d38e10dae0a20aa1911acef94cbfcdbc6f30e9bc22e0797523ab9d686fa17b96b872d0dd6fef97ea3cf573f08e96421e1708ea2d9e",
-          "sha256": "7a22fbeaed32434524cf5e5097b88bd65ea9101a76b5883f83b03c65fd6c18d7",
-          "sha1": "6cc327e48ba8b3cc1fc19206c07dfa9f705fd37d",
-          "md5": "b8a8f772f68aa42ce31e44e8a185cd55"
+          "size": 31521,
+          "sha512": "2ef45b78f733ae6d5e4e15a584c43e4735a01120500687a691fe5bb15b75666f7e4b5f9fd3f0366c6bbe3f1431771f47734c267f5f95a6fc0e96a5f0bb25dd76",
+          "sha256": "a4676487bc67ede7646c34d6ea5d27507de9009e7b93141961f557c65c2c1cc1",
+          "sha1": "07348c875ec9855c2ee2e6b3c5427ad0c3e0cda2",
+          "md5": "423d79178d11fe497a09c9efb20921f8"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "flutter_image_compress_common_debug-1.0.aar",
           "url": "flutter_image_compress_common_debug-1.0.aar",
-          "size": 31525,
-          "sha512": "85b76bb19dc698654de368d38e10dae0a20aa1911acef94cbfcdbc6f30e9bc22e0797523ab9d686fa17b96b872d0dd6fef97ea3cf573f08e96421e1708ea2d9e",
-          "sha256": "7a22fbeaed32434524cf5e5097b88bd65ea9101a76b5883f83b03c65fd6c18d7",
-          "sha1": "6cc327e48ba8b3cc1fc19206c07dfa9f705fd37d",
-          "md5": "b8a8f772f68aa42ce31e44e8a185cd55"
+          "size": 31521,
+          "sha512": "2ef45b78f733ae6d5e4e15a584c43e4735a01120500687a691fe5bb15b75666f7e4b5f9fd3f0366c6bbe3f1431771f47734c267f5f95a6fc0e96a5f0bb25dd76",
+          "sha256": "a4676487bc67ede7646c34d6ea5d27507de9009e7b93141961f557c65c2c1cc1",
+          "sha1": "07348c875ec9855c2ee2e6b3c5427ad0c3e0cda2",
+          "md5": "423d79178d11fe497a09c9efb20921f8"
         }
       ]
     },
@@ -139,11 +139,11 @@
         {
           "name": "flutter_image_compress_common_debug-1.0-javadoc.jar",
           "url": "flutter_image_compress_common_debug-1.0-javadoc.jar",
-          "size": 351955,
-          "sha512": "91725f23a2781321a4f9b4e3e3981c19532143c75940b1fba07fbf1d45e3ebee48f93640c7b4a813f2870fc65fdb7d105c52f439f48ea0fe3214541d3596159f",
-          "sha256": "e515b6cc32255e60cda1a298591072f1ea8288dff6d8f37b8920829fdc42c16b",
-          "sha1": "70a4e2fd5ac3b7756cec1d5711809498dd4348fa",
-          "md5": "f7490eb1b9a17e4eec3ec5b64029da67"
+          "size": 351450,
+          "sha512": "8c46dbeb7961a0953bcf25bd594b696f54e7b0c535356540dd1290613959a945dd7b273c677aca351ffa90a3bf48277dd80fe5132482578e574df0dcec050e5c",
+          "sha256": "6e4e715f8f6c4923eb1dd968a5db712011f37362c8936f3e37cda1495b7d4e7a",
+          "sha1": "f3fa09b75085b1345c001387b0f464ba29376271",
+          "md5": "32b8aa78c4833bd9207faa9013b56c77"
         }
       ]
     }

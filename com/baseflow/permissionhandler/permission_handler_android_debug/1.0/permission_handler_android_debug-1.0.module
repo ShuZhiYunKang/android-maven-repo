@@ -35,11 +35,11 @@
         {
           "name": "permission_handler_android_debug-1.0.aar",
           "url": "permission_handler_android_debug-1.0.aar",
-          "size": 27674,
-          "sha512": "12d75e93225066a946da3afc4cd591414202ecc83e8872e668a309746cf686cfc423156b577d267391c56282452b42e4ff39c66059e043a97f6b4548c04e0527",
-          "sha256": "5c836d33650fc9acf3fda334322e47df15f50fdd1eb1179e3f02939e1245b507",
-          "sha1": "58c1f941ce9f44b5b1635aa2b4c637206ce26564",
-          "md5": "02e1ac49da1f3ffaa845d78b42e6e391"
+          "size": 27669,
+          "sha512": "2e430a82dcb97eb0fb8b0345ee2ef3802d712be12cde18fa49716c4a31675e018a7527e863044bb5578b8af4eff8ac9a34b2ac32ebe05ece0a98cf9c61beb2a6",
+          "sha256": "c2ab115add0ada2bef33a1eec1e8747ed0ca985f6794835480b04602c97d8f3a",
+          "sha1": "cdf02b1b53a98292c3572948a2e22b03e73684c4",
+          "md5": "6672c2a644e6a016be8be09296f8c70e"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "permission_handler_android_debug-1.0.aar",
           "url": "permission_handler_android_debug-1.0.aar",
-          "size": 27674,
-          "sha512": "12d75e93225066a946da3afc4cd591414202ecc83e8872e668a309746cf686cfc423156b577d267391c56282452b42e4ff39c66059e043a97f6b4548c04e0527",
-          "sha256": "5c836d33650fc9acf3fda334322e47df15f50fdd1eb1179e3f02939e1245b507",
-          "sha1": "58c1f941ce9f44b5b1635aa2b4c637206ce26564",
-          "md5": "02e1ac49da1f3ffaa845d78b42e6e391"
+          "size": 27669,
+          "sha512": "2e430a82dcb97eb0fb8b0345ee2ef3802d712be12cde18fa49716c4a31675e018a7527e863044bb5578b8af4eff8ac9a34b2ac32ebe05ece0a98cf9c61beb2a6",
+          "sha256": "c2ab115add0ada2bef33a1eec1e8747ed0ca985f6794835480b04602c97d8f3a",
+          "sha1": "cdf02b1b53a98292c3572948a2e22b03e73684c4",
+          "md5": "6672c2a644e6a016be8be09296f8c70e"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "permission_handler_android_debug-1.0-javadoc.jar",
           "url": "permission_handler_android_debug-1.0-javadoc.jar",
-          "size": 264645,
-          "sha512": "bd4f773073057a708dd34a0149cce6864babf5e15450ae95e480659b1fb94e69e2c92fe9b93bc92f265f6d5398a4cf418672f61a8201e9c4315a17a7fb9c2b92",
-          "sha256": "1924da3d3d931eb41db835039112b2d39ad864a03db731e5c8dda702cf8ced2d",
-          "sha1": "65c6bbad880dc56da500b1f784d23dbc1b1c588f",
-          "md5": "9ac43ee39be7696f80559fd5c902eab1"
+          "size": 264570,
+          "sha512": "3be6887e1c3eb6f4f5cc3c29d78d6fc7e76aa119efbe66eddc845188e75d33b44b42e61299641a6859221c9d35855a1e2f60318a79a1717fc60fedcf3e4aca06",
+          "sha256": "93e2c4a268e21e2976e08cb0730b11145ae6c5ed6cd62d38110b22c722a3440c",
+          "sha1": "25381a46620546bf71b0cbc8dee1933cc4558d5a",
+          "md5": "53a8a2bb6bbaa57d24380ae1dd3da35c"
         }
       ]
     }
