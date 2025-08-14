@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.camera",
+    "module": "camera_android_release",
+    "version": "0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_android_release-0.5.aar",
+          "url": "camera_android_release-0.5.aar",
+          "size": 159434,
+          "sha512": "e2f0d25a7d985985d5da48352139d0069905903538f6657afbbadba714849140b8ce44fb6c22401135befde96cb82569aa06e5d82a75f111263b90419003228a",
+          "sha256": "4df89c68d6cfc7292065a81d430ba21aee91e865ee3c6d9d86b49adbbe5b16f8",
+          "sha1": "0d63c39c61112a7a460fd7e529c6a8f788952f60",
+          "md5": "d180c8448c6e9e159b7d048efb77ad73"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_android_release-0.5.aar",
+          "url": "camera_android_release-0.5.aar",
+          "size": 159434,
+          "sha512": "e2f0d25a7d985985d5da48352139d0069905903538f6657afbbadba714849140b8ce44fb6c22401135befde96cb82569aa06e5d82a75f111263b90419003228a",
+          "sha256": "4df89c68d6cfc7292065a81d430ba21aee91e865ee3c6d9d86b49adbbe5b16f8",
+          "sha1": "0d63c39c61112a7a460fd7e529c6a8f788952f60",
+          "md5": "d180c8448c6e9e159b7d048efb77ad73"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "camera_android_release-0.5-sources.jar",
+          "url": "camera_android_release-0.5-sources.jar",
+          "size": 87755,
+          "sha512": "2e6ac83c8357fa3961fab042f47f266532e38b3aa698d807d12d0790f12c14cb632229809133eaa28c91f385956e3fde7e99bdb3f1e5242f2d6d3168209980d0",
+          "sha256": "94b20e75d159e1cf5e1d972a325b98288ee6b3501823d7285cde1314e84998c0",
+          "sha1": "93bed498b42cbdbdf3f59c18dcf143498c128d41",
+          "md5": "f37151e8bfe86055b82c31397797b397"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "camera_android_release-0.5-javadoc.jar",
+          "url": "camera_android_release-0.5-javadoc.jar",
+          "size": 603611,
+          "sha512": "fdb007fc7e93a6dfd16a4c9827b29cdc5ee72793717432681df56be0bb22e3944fd6f0a07881af99aa5350434c5976441813735123b4cca7bb06f1a2b2dfc9cc",
+          "sha256": "442fe328f160cd6e45447048c6928912ac5cc574d4d0f53d0469b37c894513b0",
+          "sha1": "03ccccb62c6719c5892c117c1eb8b8cb32378235",
+          "md5": "75778333c0a1ef69817ddc3fa93041e1"
+        }
+      ]
+    }
+  ]
+}
