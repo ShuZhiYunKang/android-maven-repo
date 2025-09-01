@@ -35,11 +35,11 @@
         {
           "name": "sensors_plus_debug-1.0.aar",
           "url": "sensors_plus_debug-1.0.aar",
-          "size": 9468,
-          "sha512": "81c35693a93a0f767988c3bc42d3a0b2df0cbd99bfd7322b69ac45139e49d29187431bab966430bff495578c0e658edeeb2c25eafa53fa094f19a38608adbcda",
-          "sha256": "3ec6d65b56c7a96e0d7bbcc3a9c31dd6f7619fe373af04d01b1f8d2ee86728bc",
-          "sha1": "065a68679d5dd2137383b853d3e3a226dc2260f9",
-          "md5": "2697bec38ce29786b0d192d63e50c64f"
+          "size": 9464,
+          "sha512": "9853c80573a003454f9247a8a18c7f0da97fc027386eca04ab1fadde89355c6bff0fc626f913329f6aa8d0e5c75ea08e51475f0337294c555b5bcd6026516710",
+          "sha256": "ae6975753133b31b5ca55b414dc055456aa11c89ed03a0c381a24c1b0d55625f",
+          "sha1": "80b56c2d7d349a5f36b5c9bbf5b311afec7a782c",
+          "md5": "bd2dea085f6b88115aa8822eef414794"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "sensors_plus_debug-1.0.aar",
           "url": "sensors_plus_debug-1.0.aar",
-          "size": 9468,
-          "sha512": "81c35693a93a0f767988c3bc42d3a0b2df0cbd99bfd7322b69ac45139e49d29187431bab966430bff495578c0e658edeeb2c25eafa53fa094f19a38608adbcda",
-          "sha256": "3ec6d65b56c7a96e0d7bbcc3a9c31dd6f7619fe373af04d01b1f8d2ee86728bc",
-          "sha1": "065a68679d5dd2137383b853d3e3a226dc2260f9",
-          "md5": "2697bec38ce29786b0d192d63e50c64f"
+          "size": 9464,
+          "sha512": "9853c80573a003454f9247a8a18c7f0da97fc027386eca04ab1fadde89355c6bff0fc626f913329f6aa8d0e5c75ea08e51475f0337294c555b5bcd6026516710",
+          "sha256": "ae6975753133b31b5ca55b414dc055456aa11c89ed03a0c381a24c1b0d55625f",
+          "sha1": "80b56c2d7d349a5f36b5c9bbf5b311afec7a782c",
+          "md5": "bd2dea085f6b88115aa8822eef414794"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "sensors_plus_debug-1.0-javadoc.jar",
           "url": "sensors_plus_debug-1.0-javadoc.jar",
-          "size": 264778,
-          "sha512": "296ef99db8ed58cc7e5ca623c68228603bb263b5e2d559dd910394aa8f1f720387509ed64d50627a670e1a33a5540fda9f2d21065b792ba40b5fff2c4ecf11cb",
-          "sha256": "dbc1e9df96a6b5bef832d7c39801c427b65b5857fb1a66b08fe4c335cfe7d0ac",
-          "sha1": "b18d236fb590a94cc29a1783ab21b90b97bd0949",
-          "md5": "0a0870f2e9656bcee212c742fc206675"
+          "size": 264695,
+          "sha512": "e1f4b07a26c0467b3ca37018807a15f42bb2f6fd2a4d4462ffa21b57cdc46ece9b205afbbfa95c91a11cf3482d31773e5e87b12725e01f63dddeec0eb399c339",
+          "sha256": "285acf4b0d2a8d17d9da4b493eebd96f91dcceaec7795ef1a7a1c27ac87a6a74",
+          "sha1": "b36df0ecf4d813f50e549ea43ee2ebc3c09bde5f",
+          "md5": "cbfe50286ee4f922ce20012b76bf548d"
         }
       ]
     }

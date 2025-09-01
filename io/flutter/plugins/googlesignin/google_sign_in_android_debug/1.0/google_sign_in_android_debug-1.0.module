@@ -35,11 +35,11 @@
         {
           "name": "google_sign_in_android_debug-1.0.aar",
           "url": "google_sign_in_android_debug-1.0.aar",
-          "size": 34267,
-          "sha512": "552a4c85f09327ecfe66fe1be578d979e71550a5ada2d0bdaa6421d24e7d045649ef5a9795f17ec3471285dd97a960f10bc55d15b6b3dc69975df8acc9b93bfe",
-          "sha256": "9ec6c5a50ba0e936833b18559dbd3864dd3c71530741d84d7b9fd7187710fbc4",
-          "sha1": "abb867e6df46feb433b8589f35dd763288478a0f",
-          "md5": "3e45f6ac722f7f2b4b112fa4477d4559"
+          "size": 34264,
+          "sha512": "b8436c736d6780a64db0ca639ae792a8aab8fbfe54a8fc3cbf384674394ea5e2bd0bbc734381bee388da2d1013edb4dc51928513910711c9f06c7cca254125f5",
+          "sha256": "470222889e0d07905fd8755c71e988aab19fb4ee7be16c25f9ae55cc39840c78",
+          "sha1": "1967a97ecc5cd75ce1f3e9ad9999c13322f77814",
+          "md5": "b0b1a7c0c3d625c8ccdfb952a8ebc9b0"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "google_sign_in_android_debug-1.0.aar",
           "url": "google_sign_in_android_debug-1.0.aar",
-          "size": 34267,
-          "sha512": "552a4c85f09327ecfe66fe1be578d979e71550a5ada2d0bdaa6421d24e7d045649ef5a9795f17ec3471285dd97a960f10bc55d15b6b3dc69975df8acc9b93bfe",
-          "sha256": "9ec6c5a50ba0e936833b18559dbd3864dd3c71530741d84d7b9fd7187710fbc4",
-          "sha1": "abb867e6df46feb433b8589f35dd763288478a0f",
-          "md5": "3e45f6ac722f7f2b4b112fa4477d4559"
+          "size": 34264,
+          "sha512": "b8436c736d6780a64db0ca639ae792a8aab8fbfe54a8fc3cbf384674394ea5e2bd0bbc734381bee388da2d1013edb4dc51928513910711c9f06c7cca254125f5",
+          "sha256": "470222889e0d07905fd8755c71e988aab19fb4ee7be16c25f9ae55cc39840c78",
+          "sha1": "1967a97ecc5cd75ce1f3e9ad9999c13322f77814",
+          "md5": "b0b1a7c0c3d625c8ccdfb952a8ebc9b0"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "google_sign_in_android_debug-1.0-javadoc.jar",
           "url": "google_sign_in_android_debug-1.0-javadoc.jar",
-          "size": 335275,
-          "sha512": "016bea2dde4bd7689214938b260938d8e9f6e7a17d40a29db2d2806544b3382ae353891288bba799d3198af23028b7717d849cbeb4e4579f2a2f259cbfbcce28",
-          "sha256": "d341d86a4fd1acfccc5bd6e9b2791a7b093c5dbb01656bbd70be9a2940443842",
-          "sha1": "ceda1f2a826ba295abce6e282fcef2cfa4cde8c2",
-          "md5": "0978d1c119821c8f194d4bfae2382f74"
+          "size": 334873,
+          "sha512": "2b787fc4c8960163490e2316db383d857ce59ec5a1f02be883db32dda54b4fdae29ee75f9582ab6c41670c000b2bab9a96b1b0c034f7e5a73218cc312a725fe7",
+          "sha256": "fc4dc38097ad7b05f3189bbe7ad7935dd02522ec521025198d57f42435b67b48",
+          "sha1": "010f0be1268e6bd3f62a9a73cbb45a4ae64b667a",
+          "md5": "b51390b4b3c1c65ac2f0d934d10e2970"
         }
       ]
     }

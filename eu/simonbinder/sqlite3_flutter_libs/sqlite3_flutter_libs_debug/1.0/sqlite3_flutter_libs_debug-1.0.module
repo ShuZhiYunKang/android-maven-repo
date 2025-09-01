@@ -35,11 +35,11 @@
         {
           "name": "sqlite3_flutter_libs_debug-1.0.aar",
           "url": "sqlite3_flutter_libs_debug-1.0.aar",
-          "size": 2711,
-          "sha512": "91cf23dfcbfb674da4822432cbfa9af26bf1fbb759c1bf7e47f7c7afa7f482d42bae670ca7a47f910ca7c2860d6ba6964006f00ac68e339cdee86c9a25f58b12",
-          "sha256": "a19f85ab9c7882ddb8aa2e117705583ec40a7be3277e28e98a2560f7a2d7d0df",
-          "sha1": "00d7fe41e05a38ffdad764398664a13e12df113e",
-          "md5": "5417e7c5d72609c00b886a0c71ce56f6"
+          "size": 2708,
+          "sha512": "0ce9d58627fdbc71c32d3566c9c18d6d5e28b98b44b2f836d50f7c07672f0867b928593d8c2e8b4a900b616aeadb2dece3250e198ad2ec407b724aa40fe1ed84",
+          "sha256": "69524398551d07beaaabc732932cae68e760d3279b686e98f20d11fcd8714881",
+          "sha1": "a86a4c7a599a98a22d9bd27da8c6dfd6ca347896",
+          "md5": "36978d0bd1303d1348cef78d86a682de"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "sqlite3_flutter_libs_debug-1.0.aar",
           "url": "sqlite3_flutter_libs_debug-1.0.aar",
-          "size": 2711,
-          "sha512": "91cf23dfcbfb674da4822432cbfa9af26bf1fbb759c1bf7e47f7c7afa7f482d42bae670ca7a47f910ca7c2860d6ba6964006f00ac68e339cdee86c9a25f58b12",
-          "sha256": "a19f85ab9c7882ddb8aa2e117705583ec40a7be3277e28e98a2560f7a2d7d0df",
-          "sha1": "00d7fe41e05a38ffdad764398664a13e12df113e",
-          "md5": "5417e7c5d72609c00b886a0c71ce56f6"
+          "size": 2708,
+          "sha512": "0ce9d58627fdbc71c32d3566c9c18d6d5e28b98b44b2f836d50f7c07672f0867b928593d8c2e8b4a900b616aeadb2dece3250e198ad2ec407b724aa40fe1ed84",
+          "sha256": "69524398551d07beaaabc732932cae68e760d3279b686e98f20d11fcd8714881",
+          "sha1": "a86a4c7a599a98a22d9bd27da8c6dfd6ca347896",
+          "md5": "36978d0bd1303d1348cef78d86a682de"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "sqlite3_flutter_libs_debug-1.0-javadoc.jar",
           "url": "sqlite3_flutter_libs_debug-1.0-javadoc.jar",
-          "size": 262152,
-          "sha512": "fa18b09f29bf186d7340a4b31a84de27783d9831b380f17390fb7cab1ff5134541969af485b57775acc54ae708502b9ee5437f5e6611131001ee19d89456010f",
-          "sha256": "d572f994c36f554f677f32711b6ec0c2e10622340ce5b5e907ff54d893821672",
-          "sha1": "941b440c944253a2e97901ca570d27bd7319526e",
-          "md5": "c4f14bc33db610219501f081c81de5c9"
+          "size": 262083,
+          "sha512": "203ee3752cf2d33eae5292be3cc7a76ea036eae7c4bae7c66c87aaacd161a3265d97dedebff7f247dd2226dd861f7181e9cdf5bed87d3797f4e682b568965249",
+          "sha256": "8d6df2bf7928cbcae15f0afc4b91aec921c01605de7c7467b12f27ac7f2479c8",
+          "sha1": "7c8d7b0246dbe1bbd9e047451893b589d0507022",
+          "md5": "c42c317186f3c59a334f2e81be983b02"
         }
       ]
     }

@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.videoplayer",
+    "module": "video_player_android_release",
+    "version": "0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "video_player_android_release-0.3.aar",
+          "url": "video_player_android_release-0.3.aar",
+          "size": 44442,
+          "sha512": "9a0ec13c2ecf0282c36a92d140628333a6b06ccad27aa5134216c2ad69e699c0fefec4e23e89c6317ac5bbb39445493db625298dab072b5a9cfd08aac7a3bf33",
+          "sha256": "964a260fa3a6ac06f35cb0f13c9898737b8c5435a82e5265365256da8b22c433",
+          "sha1": "60ede817042b77396b933b1fd129142642100666",
+          "md5": "0cad36cc1584cba384728b746764a8f1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-hls",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-dash",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-rtsp",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-smoothstreaming",
+          "version": {
+            "requires": "1.4.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "video_player_android_release-0.3.aar",
+          "url": "video_player_android_release-0.3.aar",
+          "size": 44442,
+          "sha512": "9a0ec13c2ecf0282c36a92d140628333a6b06ccad27aa5134216c2ad69e699c0fefec4e23e89c6317ac5bbb39445493db625298dab072b5a9cfd08aac7a3bf33",
+          "sha256": "964a260fa3a6ac06f35cb0f13c9898737b8c5435a82e5265365256da8b22c433",
+          "sha1": "60ede817042b77396b933b1fd129142642100666",
+          "md5": "0cad36cc1584cba384728b746764a8f1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "video_player_android_release-0.3-sources.jar",
+          "url": "video_player_android_release-0.3-sources.jar",
+          "size": 24606,
+          "sha512": "80ca4cf3bbfa2da369dd6ecfd308b0b565537c2d15718029910a0b0744efe41498ed3ca75956cad025a2bbb2e7a8b6af744bc26008f6caa0ca6ecad0840b1ecd",
+          "sha256": "1d91bbbb3af21662723eeb1069224b4f8267359ab9785b656343e0a3eaeea984",
+          "sha1": "7eb34d1cfb0aaceb0d3fe28d23ce7dede63b8a77",
+          "md5": "e1d666ad6237f47ce9a5499667e6841e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "video_player_android_release-0.3-javadoc.jar",
+          "url": "video_player_android_release-0.3-javadoc.jar",
+          "size": 364610,
+          "sha512": "e9b6fe5765c0e27c42bf23a8ca9ed227eb313bd84a0fd3fb73e2f39eb96d8450a57cfdc921d9c93ecd6310817f50fd1cf4f729a70a6e3763de0c765583c0433a",
+          "sha256": "1588a6ec8b6139adfb701c4753c0c2664249534f00da47783041ad7db6098eaa",
+          "sha1": "c52dc7827bf490fe0dfcdb4dd59074b1b7844eee",
+          "md5": "0190030ac5d59ecbbec4e0674eec7211"
+        }
+      ]
+    }
+  ]
+}

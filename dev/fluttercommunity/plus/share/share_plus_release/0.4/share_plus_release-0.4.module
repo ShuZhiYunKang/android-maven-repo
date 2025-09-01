@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.fluttercommunity.plus.share",
+    "module": "share_plus_release",
+    "version": "0.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "share_plus_release-0.4.aar",
+          "url": "share_plus_release-0.4.aar",
+          "size": 20449,
+          "sha512": "5c88b16126c6ce729fc56eabd2b9496da53bf2ac287c5699c4da5ed240a1c68b55a643762d0576819b2b8d30b288b5506af4fa718e5d6a574ea742784c77c107",
+          "sha256": "d1b16bffe4c148d069e4c58292ea1f29feb5cf1c8e54937b4d0a48163f2dc3df",
+          "sha1": "f9312c9007dfd5b6bb1f852734b2b10e2fe6935f",
+          "md5": "aa3582c2bfd9e7535eb36d582cdab044"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.22"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.13.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.8.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "share_plus_release-0.4.aar",
+          "url": "share_plus_release-0.4.aar",
+          "size": 20449,
+          "sha512": "5c88b16126c6ce729fc56eabd2b9496da53bf2ac287c5699c4da5ed240a1c68b55a643762d0576819b2b8d30b288b5506af4fa718e5d6a574ea742784c77c107",
+          "sha256": "d1b16bffe4c148d069e4c58292ea1f29feb5cf1c8e54937b4d0a48163f2dc3df",
+          "sha1": "f9312c9007dfd5b6bb1f852734b2b10e2fe6935f",
+          "md5": "aa3582c2bfd9e7535eb36d582cdab044"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "share_plus_release-0.4-sources.jar",
+          "url": "share_plus_release-0.4-sources.jar",
+          "size": 7549,
+          "sha512": "1a5b96be106d4c0b6b444f86b82bba55d669c339a90ba0f900d68ea65d921fa7a13717eda480ae1bfc80ac5770de5b08ae156f78ac24cb2940d803150c509048",
+          "sha256": "00a661206911b35ef1eb9da74874f6bd4a344ab73594284512d33d70d009ac9e",
+          "sha1": "d2b61c8108b4c3fbc286ac3313656ab3fd693559",
+          "md5": "aaef7fecc35bf97193158fde6d1c85e8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "share_plus_release-0.4-javadoc.jar",
+          "url": "share_plus_release-0.4-javadoc.jar",
+          "size": 283805,
+          "sha512": "3b9670e9723e224b732aab2f8bfa92d614d95739951f9da845b85258e510b693f5c32e7698e0a00e71eade4d7b1455287b369aefa902ee9c7da5a1cbd5d9c8f6",
+          "sha256": "569071dee26430a594d9cb54dfba03e758b68ca82296253cb26645b52960c8b1",
+          "sha1": "49cab01a76b4382ac908451f8361e49430b28ea5",
+          "md5": "7d15bc666ca6a8a5bac1ac1df4e9c04b"
+        }
+      ]
+    }
+  ]
+}

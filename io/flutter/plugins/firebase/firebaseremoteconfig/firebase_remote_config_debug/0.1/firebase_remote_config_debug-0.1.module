@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.firebase.firebaseremoteconfig",
+    "module": "firebase_remote_config_debug",
+    "version": "0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.core",
+          "module": "firebase_core_debug",
+          "version": {
+            "requires": "0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "firebase_remote_config_debug-0.1.aar",
+          "url": "firebase_remote_config_debug-0.1.aar",
+          "size": 11421,
+          "sha512": "b40807b33a5af8dba6a47c8f15ceeda2a29a5b386230bb05e5195c123784fc5772f2152c6d7606192055b43389e93e2267b4c21cf6d5ce87766cbe759f2f03dc",
+          "sha256": "04cc7c18eb11033c32ce5104270ead34be3d2b5bff0724468c6aba39e8baad5a",
+          "sha1": "bf6de88e6a3fab4baa66940adcf4eaaa77a0e2d8",
+          "md5": "b1b9f4e8c694be9befc694da64754fe0"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-bom",
+          "version": {
+            "requires": "33.11.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-config"
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.core",
+          "module": "firebase_core_debug",
+          "version": {
+            "requires": "0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "firebase_remote_config_debug-0.1.aar",
+          "url": "firebase_remote_config_debug-0.1.aar",
+          "size": 11421,
+          "sha512": "b40807b33a5af8dba6a47c8f15ceeda2a29a5b386230bb05e5195c123784fc5772f2152c6d7606192055b43389e93e2267b4c21cf6d5ce87766cbe759f2f03dc",
+          "sha256": "04cc7c18eb11033c32ce5104270ead34be3d2b5bff0724468c6aba39e8baad5a",
+          "sha1": "bf6de88e6a3fab4baa66940adcf4eaaa77a0e2d8",
+          "md5": "b1b9f4e8c694be9befc694da64754fe0"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "firebase_remote_config_debug-0.1-sources.jar",
+          "url": "firebase_remote_config_debug-0.1-sources.jar",
+          "size": 5305,
+          "sha512": "fbfab30a0054b09645e3dfada1836763d944100a37f5db072eeeedf7b14a153bc6df9f4aeb110f7c7d0e5da1ac4045253c98f630adc59c974b2e643ad1b23f88",
+          "sha256": "03bd52835bcfea1474aa565418a010e8056bbe30d2eeb8da50a488c6df76d330",
+          "sha1": "4bffb43c66d43d72d8b6d4fc62ba998b49619542",
+          "md5": "dc3ef16922b3cade4431aa540c36b802"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "firebase_remote_config_debug-0.1-javadoc.jar",
+          "url": "firebase_remote_config_debug-0.1-javadoc.jar",
+          "size": 273793,
+          "sha512": "4207e8b0367f5aa1afd67b5b2c1cfbe6ae6c2d9c107c5e9b65af0a2e07cb359f1afb9f1b5e2c31359f34f350439b556379fc069d2dcda5d34aa6633b3dd1f666",
+          "sha256": "5425185b1a21e20237301c896723c61e2e6e4e7f2d5d7fb03bff35de15ebcd59",
+          "sha1": "2ed175b8479b0fbb015d413252074c2424d5718b",
+          "md5": "18162d0e0061fbf5a4ac527f57eb3acf"
+        }
+      ]
+    }
+  ]
+}

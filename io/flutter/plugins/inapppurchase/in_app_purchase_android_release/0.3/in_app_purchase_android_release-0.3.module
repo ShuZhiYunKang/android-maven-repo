@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.inapppurchase",
+    "module": "in_app_purchase_android_release",
+    "version": "0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "in_app_purchase_android_release-0.3.aar",
+          "url": "in_app_purchase_android_release-0.3.aar",
+          "size": 110432,
+          "sha512": "6ba7e809423472a1d9488f8c5a9cc3f4ed07d05fa05f19ca6c6d0c1477d2c7fe0083fd944a398092ce81246c301a3a39f77a0df26760ae4ce8a4aeb4fac127bb",
+          "sha256": "a18057fc27a6241f806db7d7c1e5bd2b1571b12097f7c66faef296d53438b283",
+          "sha1": "5b78e14a9d36d00cd6e72eacabd6bbadcfbd73b1",
+          "md5": "62bba3a2879f9146f1a3f218eaf96360"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "com.android.billingclient",
+          "module": "billing",
+          "version": {
+            "requires": "7.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "in_app_purchase_android_release-0.3.aar",
+          "url": "in_app_purchase_android_release-0.3.aar",
+          "size": 110432,
+          "sha512": "6ba7e809423472a1d9488f8c5a9cc3f4ed07d05fa05f19ca6c6d0c1477d2c7fe0083fd944a398092ce81246c301a3a39f77a0df26760ae4ce8a4aeb4fac127bb",
+          "sha256": "a18057fc27a6241f806db7d7c1e5bd2b1571b12097f7c66faef296d53438b283",
+          "sha1": "5b78e14a9d36d00cd6e72eacabd6bbadcfbd73b1",
+          "md5": "62bba3a2879f9146f1a3f218eaf96360"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "in_app_purchase_android_release-0.3-sources.jar",
+          "url": "in_app_purchase_android_release-0.3-sources.jar",
+          "size": 25611,
+          "sha512": "224e14deb1e3b31bfd89bb1c67d5174994e7da999ae61413d0717c7771e544be861d562d8eebeb59bcfbaced4f03c50d0dd602115c628812982934b06ba9ebcb",
+          "sha256": "9acfd5214ac71ecd1d693ab9d2e6cfc40208bfa096cb8fd75b2c286862d279b4",
+          "sha1": "951a82e3bf3c01239beacb1c2e2230b7d46b3497",
+          "md5": "bb6c7516e99f919afffe135a754ed2d1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "in_app_purchase_android_release-0.3-javadoc.jar",
+          "url": "in_app_purchase_android_release-0.3-javadoc.jar",
+          "size": 496923,
+          "sha512": "48fc362af0923bb1c1121ffa70280a4dbbfd4870f9b0225a335b9edc15dfea202feb8d48b7f52dd727e16caa29cd3f41453e7d9e76a28f922656120a974dd638",
+          "sha256": "2efa83908bcbba2a19f1dcdda045e182ec7aef4374aac73f6e3db8a7bf0a0b90",
+          "sha1": "9668c3a1710eb6e8dabcbf773a53efdb29dfa935",
+          "md5": "b8dbed6f150f19c094d28d2cc2f6fb04"
+        }
+      ]
+    }
+  ]
+}

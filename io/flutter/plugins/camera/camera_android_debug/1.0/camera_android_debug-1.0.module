@@ -35,11 +35,11 @@
         {
           "name": "camera_android_debug-1.0.aar",
           "url": "camera_android_debug-1.0.aar",
-          "size": 168513,
-          "sha512": "a0d8e40eafeb96792056c335a3f25f573d39443399b01394422b61f9a0015a0ae6b658d09c920e65a9bd2ec6d70310e7f0455406a3d0b8b5ce68821928fecf79",
-          "sha256": "42a3f667d5d8a0c726b65918ebc1783c69f46570f103d5b894c202fd622e06df",
-          "sha1": "55582f0208e892ed57c4438c319128651c49089e",
-          "md5": "19bda8a45f092cb339de13a21e226125"
+          "size": 168510,
+          "sha512": "0b27c45e5db73d57b25f3298ca3195b9e246d171f720fae4d5114d7cd60f3276fb357d4443214f46b3de26f0c484c08010a46990de2c691deec29dd38d9be0b0",
+          "sha256": "37ebc5d31d3724e4a79401ad8847759a50381683bc15f968839b749b96f4670f",
+          "sha1": "57813cf6918bbc013294be277d2ea7c11dd633e3",
+          "md5": "3307fdcf25c2b29cb2ba30d2bb4e1770"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "camera_android_debug-1.0.aar",
           "url": "camera_android_debug-1.0.aar",
-          "size": 168513,
-          "sha512": "a0d8e40eafeb96792056c335a3f25f573d39443399b01394422b61f9a0015a0ae6b658d09c920e65a9bd2ec6d70310e7f0455406a3d0b8b5ce68821928fecf79",
-          "sha256": "42a3f667d5d8a0c726b65918ebc1783c69f46570f103d5b894c202fd622e06df",
-          "sha1": "55582f0208e892ed57c4438c319128651c49089e",
-          "md5": "19bda8a45f092cb339de13a21e226125"
+          "size": 168510,
+          "sha512": "0b27c45e5db73d57b25f3298ca3195b9e246d171f720fae4d5114d7cd60f3276fb357d4443214f46b3de26f0c484c08010a46990de2c691deec29dd38d9be0b0",
+          "sha256": "37ebc5d31d3724e4a79401ad8847759a50381683bc15f968839b749b96f4670f",
+          "sha1": "57813cf6918bbc013294be277d2ea7c11dd633e3",
+          "md5": "3307fdcf25c2b29cb2ba30d2bb4e1770"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "camera_android_debug-1.0-javadoc.jar",
           "url": "camera_android_debug-1.0-javadoc.jar",
-          "size": 605555,
-          "sha512": "26c8fbd06181258fa97571eba50841c10d0a1d2a2680c77be6c08278e1aa2ffed7d6ea74b2f0dfd0275295f89c2196293923b02ecffc63d657e5e265eb8500c0",
-          "sha256": "3ab21192bef20756cae89ce7df2a17fb09b5c7bb09da4dce42f4cb3f95775b7b",
-          "sha1": "06509070fafd6a54344e2d0386973beb1e4dd8a6",
-          "md5": "64dff42b90e4eb595abd58f934e672a1"
+          "size": 603588,
+          "sha512": "ab7b8d2f8813b587f9e52ea4c6a25e83a183e0883ea3c0aba86a3923a2e8a188e34153d94c31040f9dd15ff0fe0449215c2c55c007eff87babd2791d01a469c8",
+          "sha256": "430b5dc13ea025c7e5e948a74e1fae4195e139474ff9ebcb1f7c9b5aa5c1b0aa",
+          "sha1": "4a182f3f2ac67211f6e20a7e2abcba673c08a0f5",
+          "md5": "5080289bac121737d94d62370129887e"
         }
       ]
     }

@@ -1,0 +1,150 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ch.simonbraillard.flutter_new_badger",
+    "module": "flutter_new_badger_debug",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_new_badger_debug-1.0.aar",
+          "url": "flutter_new_badger_debug-1.0.aar",
+          "size": 4234,
+          "sha512": "db51c8ee5ce328ffc5ed4e890bec6e2b952f7a4242a129be6990e826f4902fd4ee619b9b4e9ce01b074df7e73cdda624a0ec18ad3f6df965efece35f7f3b590d",
+          "sha256": "5c237825847497409b2f04280ba919694effe501974030ccf655c12e75ac5ba4",
+          "sha1": "ce03d45720d7124def033f37a2f7f71b6173f5b8",
+          "md5": "4290a094c159ed7525b712adc37ea1cc"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "me.leolin",
+          "module": "ShortcutBadger",
+          "version": {
+            "requires": "1.1.22"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "ShortcutBadger",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_new_badger_debug-1.0.aar",
+          "url": "flutter_new_badger_debug-1.0.aar",
+          "size": 4234,
+          "sha512": "db51c8ee5ce328ffc5ed4e890bec6e2b952f7a4242a129be6990e826f4902fd4ee619b9b4e9ce01b074df7e73cdda624a0ec18ad3f6df965efece35f7f3b590d",
+          "sha256": "5c237825847497409b2f04280ba919694effe501974030ccf655c12e75ac5ba4",
+          "sha1": "ce03d45720d7124def033f37a2f7f71b6173f5b8",
+          "md5": "4290a094c159ed7525b712adc37ea1cc"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_new_badger_debug-1.0-sources.jar",
+          "url": "flutter_new_badger_debug-1.0-sources.jar",
+          "size": 1776,
+          "sha512": "c3d1ee04902cd70b0d5dad70cf8a33d467503a4187a2533a44f393362c35ed7346ace3326668222d4dffd17d1172b1df25dadad9ce27d30ace3e5c9c02c9c648",
+          "sha256": "a29d615e4a0c05e28a1a76b0cd89cfc61b4f6648092aa31666d2c30e86c13a41",
+          "sha1": "00948fe19d0d77a813d3083387c846f71a2237f1",
+          "md5": "66078d106b1cb86ef6e66ffaa3a37a47"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_new_badger_debug-1.0-javadoc.jar",
+          "url": "flutter_new_badger_debug-1.0-javadoc.jar",
+          "size": 262486,
+          "sha512": "28a040ead79dc334639f8b286dfd2642e4cce69ffba2208e722fb1a22af2303953d051e341fc8962a4b2b338aa4406101e86628b8305aed1ea1d97124bfe5a97",
+          "sha256": "3efe7e8eb37463a19bea137d7ee00445061bc45930693f136c8e9926d825eacf",
+          "sha1": "f01a9bd23a489ab47cbe3c70f44b9c94497b3c03",
+          "md5": "c798b0f712eb3d155decf59170c67af6"
+        }
+      ]
+    }
+  ]
+}

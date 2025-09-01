@@ -35,11 +35,11 @@
         {
           "name": "flutter_local_notifications_debug-1.0.aar",
           "url": "flutter_local_notifications_debug-1.0.aar",
-          "size": 86153,
-          "sha512": "ce66b6449f14d04fb4968936165702c159729747831d42bdae9330faedf8e49d578599a6add0d46c02e65bc0ea91d6dc6ddce4f85dfbc302635843b60669b550",
-          "sha256": "a88bab2fbf424b071109ee7ca8ff71eaa87c199a61515f0460fb0e82271d9ff3",
-          "sha1": "88fc03a106fdc4822f17fc98506bc7c7ebe6894c",
-          "md5": "2e7928ec6d93dbcbe540410fc90376a2"
+          "size": 86151,
+          "sha512": "3bd099b5b8127e4ef10d0333d6667b22aaa64d03f5a3ccea6449c59433f05a6683703910a15724965bd381d15309ee99bfbb3bc9257c7ea04f3b31b785f0554e",
+          "sha256": "5f76643d3eed13cb8c52de4fe39d556f664917713b5549be5b14bceeb65186ff",
+          "sha1": "0725b91e57e595f35ac2dba92859dbf745e970fd",
+          "md5": "0a39e24e6830c91837580a75533f04b3"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "flutter_local_notifications_debug-1.0.aar",
           "url": "flutter_local_notifications_debug-1.0.aar",
-          "size": 86153,
-          "sha512": "ce66b6449f14d04fb4968936165702c159729747831d42bdae9330faedf8e49d578599a6add0d46c02e65bc0ea91d6dc6ddce4f85dfbc302635843b60669b550",
-          "sha256": "a88bab2fbf424b071109ee7ca8ff71eaa87c199a61515f0460fb0e82271d9ff3",
-          "sha1": "88fc03a106fdc4822f17fc98506bc7c7ebe6894c",
-          "md5": "2e7928ec6d93dbcbe540410fc90376a2"
+          "size": 86151,
+          "sha512": "3bd099b5b8127e4ef10d0333d6667b22aaa64d03f5a3ccea6449c59433f05a6683703910a15724965bd381d15309ee99bfbb3bc9257c7ea04f3b31b785f0554e",
+          "sha256": "5f76643d3eed13cb8c52de4fe39d556f664917713b5549be5b14bceeb65186ff",
+          "sha1": "0725b91e57e595f35ac2dba92859dbf745e970fd",
+          "md5": "0a39e24e6830c91837580a75533f04b3"
         }
       ]
     },
@@ -125,11 +125,11 @@
         {
           "name": "flutter_local_notifications_debug-1.0-javadoc.jar",
           "url": "flutter_local_notifications_debug-1.0-javadoc.jar",
-          "size": 417825,
-          "sha512": "07b8e10e6317f3d05cb287f542ade5d078c0f9eac2181b515ae488750e63fb5d05bbbd91b38b1e7ce14e5f9b07a294416a645469acc28c2a4715c655d4c502bb",
-          "sha256": "7b1be156dcd145738ddf4116bd7783f2f929d8ce9edd824dd70f61b13416d0ad",
-          "sha1": "4555f0c2e764b0c37587e931d42848c6ca922f75",
-          "md5": "d970bb6bd02bc8ee5a045669cf118e05"
+          "size": 417346,
+          "sha512": "97349a19346a23a80adf4fc356c64f48e0adc0bc69bea21522bc08ff83ee8228c0aecea8eae3d5ac0adc52f63e1afa84cbe32eae2bf29fe667b59190e8050a01",
+          "sha256": "084023d5c432241563759809c47a537801b874ff4959406641fc8c1a6e648485",
+          "sha1": "97ad9c3f39a9b927a5613be7497af3b2f48e8579",
+          "md5": "ab3953c46dea2a29e20694b5e7fb3809"
         }
       ]
     }
