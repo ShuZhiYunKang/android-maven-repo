@@ -3,11 +3,12 @@
   <groupId>ch.simonbraillard.flutter_new_badger</groupId>
   <artifactId>flutter_new_badger_release</artifactId>
   <versioning>
-    <latest>0.12</latest>
-    <release>0.12</release>
+    <latest>0.13</latest>
+    <release>0.13</release>
     <versions>
       <version>0.12</version>
+      <version>0.13</version>
     </versions>
-    <lastUpdated>20250909034931</lastUpdated>
+    <lastUpdated>20250909094840</lastUpdated>
   </versioning>
 </metadata>

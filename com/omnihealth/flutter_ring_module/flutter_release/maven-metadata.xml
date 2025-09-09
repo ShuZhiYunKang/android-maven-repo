@@ -3,11 +3,12 @@
   <groupId>com.omnihealth.flutter_ring_module</groupId>
   <artifactId>flutter_release</artifactId>
   <versioning>
-    <latest>0.12</latest>
-    <release>0.12</release>
+    <latest>0.13</latest>
+    <release>0.13</release>
     <versions>
       <version>0.12</version>
+      <version>0.13</version>
     </versions>
-    <lastUpdated>20250909034824</lastUpdated>
+    <lastUpdated>20250909094731</lastUpdated>
   </versioning>
 </metadata>
