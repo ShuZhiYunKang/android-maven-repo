@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "eu.simonbinder.sqlite3_flutter_libs",
+    "module": "sqlite3_flutter_libs_release",
+    "version": "0.18",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.18.aar",
+          "url": "sqlite3_flutter_libs_release-0.18.aar",
+          "size": 2648,
+          "sha512": "34933f2a969977bbec3553a93dbfa5d704bfe68674b77da44dbd7f6adfc9ccc1eb58d2b3e1c968351e8027c2d18d7c8321381afa0fdd2f78838943345662d1c0",
+          "sha256": "2092f5a02dd2983fedde7efad51a20c1b6ccb96882529911162c6fb15d0e76e4",
+          "sha1": "54f0af7632663a0c5b10302b75d33fbab82f77af",
+          "md5": "cc23754fbbf74e680ae427f0cc3b6bce"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "eu.simonbinder",
+          "module": "sqlite3-native-library",
+          "version": {
+            "requires": "3.50.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.18.aar",
+          "url": "sqlite3_flutter_libs_release-0.18.aar",
+          "size": 2648,
+          "sha512": "34933f2a969977bbec3553a93dbfa5d704bfe68674b77da44dbd7f6adfc9ccc1eb58d2b3e1c968351e8027c2d18d7c8321381afa0fdd2f78838943345662d1c0",
+          "sha256": "2092f5a02dd2983fedde7efad51a20c1b6ccb96882529911162c6fb15d0e76e4",
+          "sha1": "54f0af7632663a0c5b10302b75d33fbab82f77af",
+          "md5": "cc23754fbbf74e680ae427f0cc3b6bce"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.18-sources.jar",
+          "url": "sqlite3_flutter_libs_release-0.18-sources.jar",
+          "size": 1462,
+          "sha512": "72a2ddbe506e1d6e2730f00e041dea0f9c617b03138b525c6b88e0ef701b98a66fd1d6b75cd9b22a8ea26fce3e98b7a69945f10593749c1593670c595f78bb9d",
+          "sha256": "65510b847d970f272c2935de5b14f0489bd719bee3541f208bc72ba20e42e293",
+          "sha1": "cc4891fa470b28d66912771a1d113c24bb411027",
+          "md5": "78f2d9b7b35831e0a4e0ebe0e97d4aa4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.18-javadoc.jar",
+          "url": "sqlite3_flutter_libs_release-0.18-javadoc.jar",
+          "size": 262155,
+          "sha512": "07047de76f8c36c32dd8835dee842a6336786305686011a08e3c3dd7db0c5342a46b70cb1d69fb7fb202b1981ac1ebccad125dc81e12c06c97c95b94d77d4e53",
+          "sha256": "404f947faeec8f1b671395af5ec209bb4b384eaca58c822436ccf4998b3642f4",
+          "sha1": "f4bb7fcf550ac11283d85a9bfd1a9eca5178f81d",
+          "md5": "624004415d5d51e6f74100a3695382e4"
+        }
+      ]
+    }
+  ]
+}

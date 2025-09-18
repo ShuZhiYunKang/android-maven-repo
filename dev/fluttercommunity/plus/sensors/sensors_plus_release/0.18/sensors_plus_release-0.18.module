@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.fluttercommunity.plus.sensors",
+    "module": "sensors_plus_release",
+    "version": "0.18",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sensors_plus_release-0.18.aar",
+          "url": "sensors_plus_release-0.18.aar",
+          "size": 9113,
+          "sha512": "d55cb7f95ac827fff80c5d3e89418b18fcd6549e6913c47970aff5c3c48a482cff9ceef905208fffc0412274249f24e073dc5b530185fd462de057b1972b3b81",
+          "sha256": "4f57145ecd872831400d12658da98ab1bd04af6587f8550f3de4edc241b739e6",
+          "sha1": "0d417d560269f4d408c3f60ebc2a20905e1d04e8",
+          "md5": "54eb0861a5278c6fd17aa5b06e8ac348"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sensors_plus_release-0.18.aar",
+          "url": "sensors_plus_release-0.18.aar",
+          "size": 9113,
+          "sha512": "d55cb7f95ac827fff80c5d3e89418b18fcd6549e6913c47970aff5c3c48a482cff9ceef905208fffc0412274249f24e073dc5b530185fd462de057b1972b3b81",
+          "sha256": "4f57145ecd872831400d12658da98ab1bd04af6587f8550f3de4edc241b739e6",
+          "sha1": "0d417d560269f4d408c3f60ebc2a20905e1d04e8",
+          "md5": "54eb0861a5278c6fd17aa5b06e8ac348"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sensors_plus_release-0.18-sources.jar",
+          "url": "sensors_plus_release-0.18-sources.jar",
+          "size": 3078,
+          "sha512": "ff8c14ac129b7e7d57ba1c1d48a7bd51656b3a77eccd557666bdf8a3b0172ecca0df5ba81b9ebbe8d029f941c22d8f18a241481915f11253f61492bda395d5e3",
+          "sha256": "bc48e760fb87da67a364f00faddba3a1e477beac55f4ede297734f50cf1cd795",
+          "sha1": "6b5cb27f9ac4f036dc8728014deb48440cb4dfba",
+          "md5": "19db92f4ba177bdc11b351b78aa144de"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sensors_plus_release-0.18-javadoc.jar",
+          "url": "sensors_plus_release-0.18-javadoc.jar",
+          "size": 264782,
+          "sha512": "08c6db5a4bea46ec4c79d9cf0d94e6272f5a6d33c8c62f463e903e65f7aff972d21e81a1cad5e8263c960409254d89e99694031c83a35e7c65f5580054309d10",
+          "sha256": "4dc779b22c29542b21053f9f9c9559c75099948df388d60d49d974d12e403980",
+          "sha1": "bba7a4d1bb4e0bbd74fe1739b10e035641cbd1c1",
+          "md5": "6411252bc9effc1983480a9243c1c054"
+        }
+      ]
+    }
+  ]
+}
