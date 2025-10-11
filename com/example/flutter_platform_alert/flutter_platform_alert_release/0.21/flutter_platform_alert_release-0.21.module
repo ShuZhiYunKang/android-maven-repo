@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.flutter_platform_alert",
+    "module": "flutter_platform_alert_release",
+    "version": "0.21",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_platform_alert_release-0.21.aar",
+          "url": "flutter_platform_alert_release-0.21.aar",
+          "size": 9179,
+          "sha512": "bad7c4a8191fa519b3bb6457cd0204c53495101ecbed5e538c5aa1931df4dd7957a96f1c73c7696cfab1fef0210ae8d666900ba3fc188aea363b04a80caafb08",
+          "sha256": "01e1888ef153eafb5a2b674cd05ee15fc2134b51964d4bbbb88ecdada208929d",
+          "sha1": "49be972bb11cbfae15874fa7651a8bb0cbdfefe1",
+          "md5": "2bc8722ee75445f7666fabf6e6e275ad"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.5.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_platform_alert_release-0.21.aar",
+          "url": "flutter_platform_alert_release-0.21.aar",
+          "size": 9179,
+          "sha512": "bad7c4a8191fa519b3bb6457cd0204c53495101ecbed5e538c5aa1931df4dd7957a96f1c73c7696cfab1fef0210ae8d666900ba3fc188aea363b04a80caafb08",
+          "sha256": "01e1888ef153eafb5a2b674cd05ee15fc2134b51964d4bbbb88ecdada208929d",
+          "sha1": "49be972bb11cbfae15874fa7651a8bb0cbdfefe1",
+          "md5": "2bc8722ee75445f7666fabf6e6e275ad"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_platform_alert_release-0.21-sources.jar",
+          "url": "flutter_platform_alert_release-0.21-sources.jar",
+          "size": 2419,
+          "sha512": "0f2b22bac756a091326a6764355e2ee2c67d54d95ce2c038b9e91741917938070f40268ef2c8938684fb5110558c645f2617a325818b8f9f3fe7a70eec960812",
+          "sha256": "0a5a52767371b2959d622148176f784c3054379097ee746859302933d68e85ad",
+          "sha1": "5c714b72591bb9a3298241008d3df5fa6c53b609",
+          "md5": "67fcd057752c94dc2ab62b41c059f6c0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_platform_alert_release-0.21-javadoc.jar",
+          "url": "flutter_platform_alert_release-0.21-javadoc.jar",
+          "size": 262914,
+          "sha512": "1c61ae9803f3f2881224e03f72300a72778feb714ecfa7062b7f28aca53755ad5254b1085c9e77c5f0b294a0286cd6a937abde446d56072ac9ebf726f36f2acf",
+          "sha256": "14e672b90e25f6e72966f2211862a7f391dd98494fe9017e1179eefbe8e7d9fc",
+          "sha1": "e644fa8ae36ba45581116beee8913649009603c1",
+          "md5": "ac89b819f39428c02a109e8ade64108f"
+        }
+      ]
+    }
+  ]
+}
