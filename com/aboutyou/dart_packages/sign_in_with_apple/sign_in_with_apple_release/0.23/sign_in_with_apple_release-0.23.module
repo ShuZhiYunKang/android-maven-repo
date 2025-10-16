@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.aboutyou.dart_packages.sign_in_with_apple",
+    "module": "sign_in_with_apple_release",
+    "version": "0.23",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sign_in_with_apple_release-0.23.aar",
+          "url": "sign_in_with_apple_release-0.23.aar",
+          "size": 8197,
+          "sha512": "3546297730883300f202c56163affcde6d5d6d23f4f65326b8d7207b25ee3c49149ad6a7aac594eb7b6e508207c16e54f430d3d11fdfc88d253fd144ebcca5da",
+          "sha256": "bb8fdbe1cee942ce494643ba451fe136a66e8c933b7051da7a47b284a6b50cff",
+          "sha1": "a90c8eb29432c50d134152fbe35464bb93ba6b96",
+          "md5": "ae0a0d5a112098d9bc0f019a9cc9cd32"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sign_in_with_apple_release-0.23.aar",
+          "url": "sign_in_with_apple_release-0.23.aar",
+          "size": 8197,
+          "sha512": "3546297730883300f202c56163affcde6d5d6d23f4f65326b8d7207b25ee3c49149ad6a7aac594eb7b6e508207c16e54f430d3d11fdfc88d253fd144ebcca5da",
+          "sha256": "bb8fdbe1cee942ce494643ba451fe136a66e8c933b7051da7a47b284a6b50cff",
+          "sha1": "a90c8eb29432c50d134152fbe35464bb93ba6b96",
+          "md5": "ae0a0d5a112098d9bc0f019a9cc9cd32"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sign_in_with_apple_release-0.23-sources.jar",
+          "url": "sign_in_with_apple_release-0.23-sources.jar",
+          "size": 2730,
+          "sha512": "232813b66653332be1825dda86c44197be6a6e5c4db974c29b5e382607c23c3453837625416f9ae13f991ba92f998f99dc25155e699a146881cd86e42431b316",
+          "sha256": "3f74fc332e872fbcfdc3245f838f6f2e4704e5b0c6a0c865417757fad32ab9b4",
+          "sha1": "227ee9e1b8ad1d2663b181163fd2a12db200cd6a",
+          "md5": "57be615d4366529cd2aa5385e32ef800"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sign_in_with_apple_release-0.23-javadoc.jar",
+          "url": "sign_in_with_apple_release-0.23-javadoc.jar",
+          "size": 312437,
+          "sha512": "f6e0a30b9b7b746538d8fe252c6b0920e4758a395582cfa32b119b20e498859c3d365e9996777ad23688f4f3380f4f8e899d79336c3f8a897d253add34d2e313",
+          "sha256": "ffa97d26b05debf8a6e5e19476ea9b87240599e92dbcdbf7b418316c575878e0",
+          "sha1": "0d46e2a14e324d6f79ad7a2bb6de55679128671c",
+          "md5": "343679f65866be9f79a5676a91d59769"
+        }
+      ]
+    }
+  ]
+}
