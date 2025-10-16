@@ -3,12 +3,13 @@
   <groupId>dev.fluttercommunity.plus.share</groupId>
   <artifactId>share_plus_release</artifactId>
   <versioning>
-    <latest>0.21</latest>
-    <release>0.21</release>
+    <latest>0.22</latest>
+    <release>0.22</release>
     <versions>
       <version>0.20</version>
       <version>0.21</version>
+      <version>0.22</version>
     </versions>
-    <lastUpdated>20251011033438</lastUpdated>
+    <lastUpdated>20251016074344</lastUpdated>
   </versioning>
 </metadata>
