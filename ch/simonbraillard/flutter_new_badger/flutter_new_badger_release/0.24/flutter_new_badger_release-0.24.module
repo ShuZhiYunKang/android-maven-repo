@@ -32,9 +32,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "flutter_new_badger_release-0.24.aar",
           "url": "flutter_new_badger_release-0.24.aar",
-          "size": 4092,
-          "sha512": "fc943c252f3f68e8165db02ab3a8d7054da9d285ffdda67143eea556d043fb97fb03a9891e7cc24d0783dbd195686db391d9fb8dc13400cd3edd73d47d59d77f",
-          "sha256": "879c6862c66d6f4af6af0542cbfd4f5f3a9594b3e3aa5d093d0c80cd2784fd1e",
-          "sha1": "90e2f7b684c42335ae855f54be3ed712137bd2b1",
-          "md5": "22340bfae71abccf30ba55f62e099f93"
+          "size": 4061,
+          "sha512": "7024e7bdd2665a86d9d3e67191e785afdaf6a03b238158d6fdbb36188209e9e51353e9e0294014ed99ddea06628215917f3a82af7763592661318cfde22c97c9",
+          "sha256": "5f09844ee38b839a48b1fc6de6ea862dd7063e67ed956336262f8afeb48604bb",
+          "sha1": "46246764ea503e2f94f970bf9531af946255f74d",
+          "md5": "df8191d16185d3a1bab0d7ef51a8c251"
         }
       ]
     },
@@ -88,9 +88,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -98,11 +98,11 @@
         {
           "name": "flutter_new_badger_release-0.24.aar",
           "url": "flutter_new_badger_release-0.24.aar",
-          "size": 4092,
-          "sha512": "fc943c252f3f68e8165db02ab3a8d7054da9d285ffdda67143eea556d043fb97fb03a9891e7cc24d0783dbd195686db391d9fb8dc13400cd3edd73d47d59d77f",
-          "sha256": "879c6862c66d6f4af6af0542cbfd4f5f3a9594b3e3aa5d093d0c80cd2784fd1e",
-          "sha1": "90e2f7b684c42335ae855f54be3ed712137bd2b1",
-          "md5": "22340bfae71abccf30ba55f62e099f93"
+          "size": 4061,
+          "sha512": "7024e7bdd2665a86d9d3e67191e785afdaf6a03b238158d6fdbb36188209e9e51353e9e0294014ed99ddea06628215917f3a82af7763592661318cfde22c97c9",
+          "sha256": "5f09844ee38b839a48b1fc6de6ea862dd7063e67ed956336262f8afeb48604bb",
+          "sha1": "46246764ea503e2f94f970bf9531af946255f74d",
+          "md5": "df8191d16185d3a1bab0d7ef51a8c251"
         }
       ]
     },

@@ -35,11 +35,11 @@
         {
           "name": "health_release-0.24.aar",
           "url": "health_release-0.24.aar",
-          "size": 68200,
-          "sha512": "4f89c7a7c054af9bdaa2fca2e26891db9694ad7e6d11a205580956fe168d98ed1d366aa72503c3758c403ccf6eac40eed610cbe7a0bae397ef925aa7b92587aa",
-          "sha256": "5856f58287e328ed4e0be5ab9e55f40a33da77fc02a465b2c46aa446a746647f",
-          "sha1": "9e7f338a8ef68cf45dd5bcd41370b5b9e51cd6e5",
-          "md5": "acc54caa59abd036654661ef34d3f1e3"
+          "size": 66147,
+          "sha512": "7fc28ce995fe90ff4cac75dbfdaef44976006ddb3b79cf5a02bd3a5853c1c7c374c74d564b770c10ab5f055aedc49bdd5affa415d3a2861d113bc0f904e0d6a1",
+          "sha256": "d35d77b03afae47568b836a86e58eabe16c15b18fba879344103cd8a86099894",
+          "sha1": "8169244b8aeda3eafa2bfb0f44874f5df3b4c696",
+          "md5": "a6da2dd649832ad2e0861c3891aa9a54"
         }
       ]
     },
@@ -103,11 +103,11 @@
         {
           "name": "health_release-0.24.aar",
           "url": "health_release-0.24.aar",
-          "size": 68200,
-          "sha512": "4f89c7a7c054af9bdaa2fca2e26891db9694ad7e6d11a205580956fe168d98ed1d366aa72503c3758c403ccf6eac40eed610cbe7a0bae397ef925aa7b92587aa",
-          "sha256": "5856f58287e328ed4e0be5ab9e55f40a33da77fc02a465b2c46aa446a746647f",
-          "sha1": "9e7f338a8ef68cf45dd5bcd41370b5b9e51cd6e5",
-          "md5": "acc54caa59abd036654661ef34d3f1e3"
+          "size": 66147,
+          "sha512": "7fc28ce995fe90ff4cac75dbfdaef44976006ddb3b79cf5a02bd3a5853c1c7c374c74d564b770c10ab5f055aedc49bdd5affa415d3a2861d113bc0f904e0d6a1",
+          "sha256": "d35d77b03afae47568b836a86e58eabe16c15b18fba879344103cd8a86099894",
+          "sha1": "8169244b8aeda3eafa2bfb0f44874f5df3b4c696",
+          "md5": "a6da2dd649832ad2e0861c3891aa9a54"
         }
       ]
     },

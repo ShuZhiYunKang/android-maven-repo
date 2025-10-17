@@ -35,11 +35,11 @@
         {
           "name": "sign_in_with_apple_release-0.24.aar",
           "url": "sign_in_with_apple_release-0.24.aar",
-          "size": 9262,
-          "sha512": "0e421ba35850d0827dc73135b1ad26047fb2859cabadc0d851de6141c81c9b3bc06d918bd50c976b451a58e881dd00f2ed4526544ecaeaf11c5e932a70ece456",
-          "sha256": "3c80ce54988acde95fe4560d32447fc6bb9b6524a84d8c4af9757dcde5556993",
-          "sha1": "c214c26c003ec7bfa1ab15003b078a9b8071c742",
-          "md5": "3877d417e69019ffdc012c82d9857269"
+          "size": 8197,
+          "sha512": "3546297730883300f202c56163affcde6d5d6d23f4f65326b8d7207b25ee3c49149ad6a7aac594eb7b6e508207c16e54f430d3d11fdfc88d253fd144ebcca5da",
+          "sha256": "bb8fdbe1cee942ce494643ba451fe136a66e8c933b7051da7a47b284a6b50cff",
+          "sha1": "a90c8eb29432c50d134152fbe35464bb93ba6b96",
+          "md5": "ae0a0d5a112098d9bc0f019a9cc9cd32"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "sign_in_with_apple_release-0.24.aar",
           "url": "sign_in_with_apple_release-0.24.aar",
-          "size": 9262,
-          "sha512": "0e421ba35850d0827dc73135b1ad26047fb2859cabadc0d851de6141c81c9b3bc06d918bd50c976b451a58e881dd00f2ed4526544ecaeaf11c5e932a70ece456",
-          "sha256": "3c80ce54988acde95fe4560d32447fc6bb9b6524a84d8c4af9757dcde5556993",
-          "sha1": "c214c26c003ec7bfa1ab15003b078a9b8071c742",
-          "md5": "3877d417e69019ffdc012c82d9857269"
+          "size": 8197,
+          "sha512": "3546297730883300f202c56163affcde6d5d6d23f4f65326b8d7207b25ee3c49149ad6a7aac594eb7b6e508207c16e54f430d3d11fdfc88d253fd144ebcca5da",
+          "sha256": "bb8fdbe1cee942ce494643ba451fe136a66e8c933b7051da7a47b284a6b50cff",
+          "sha1": "a90c8eb29432c50d134152fbe35464bb93ba6b96",
+          "md5": "ae0a0d5a112098d9bc0f019a9cc9cd32"
         }
       ]
     },

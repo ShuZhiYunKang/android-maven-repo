@@ -32,9 +32,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "open_settings_plus_release-0.24.aar",
           "url": "open_settings_plus_release-0.24.aar",
-          "size": 3618,
-          "sha512": "59755087304afeaaf5a6cd453087ba40f36e9ba4276249e8514197297646ef376d5aaaa2665ab1eb6a19f9546c0492783a9d089b6a4afe5050ae71a24f957143",
-          "sha256": "ba6416e5020f88fbc884bf2d61354a6d4e03e0254ec308a77b010a1c29521504",
-          "sha1": "7026041ab0b963ff2f0cf5b75632a07b4d0bd8c9",
-          "md5": "256e3278fefd821eeb0e7ec465962d86"
+          "size": 3599,
+          "sha512": "13c2b6ebb277f000251fd7da250369e379f172674ced1fce9911cfd308123a7ed49f8f3410f1233b3d9d83a2e33e6e2419c19ea17c4bf403ff46a9a42e40270b",
+          "sha256": "a4c9b85032bca7b8df2957f7988f43916ce9d158106fa9ba99cca5de0e5408b2",
+          "sha1": "b3f281bebbc86216c752f4c156b381987e588bac",
+          "md5": "82a811c2b4cfd78f6f92bdac0d0dbc52"
         }
       ]
     },
@@ -68,9 +68,9 @@
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.22"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "open_settings_plus_release-0.24.aar",
           "url": "open_settings_plus_release-0.24.aar",
-          "size": 3618,
-          "sha512": "59755087304afeaaf5a6cd453087ba40f36e9ba4276249e8514197297646ef376d5aaaa2665ab1eb6a19f9546c0492783a9d089b6a4afe5050ae71a24f957143",
-          "sha256": "ba6416e5020f88fbc884bf2d61354a6d4e03e0254ec308a77b010a1c29521504",
-          "sha1": "7026041ab0b963ff2f0cf5b75632a07b4d0bd8c9",
-          "md5": "256e3278fefd821eeb0e7ec465962d86"
+          "size": 3599,
+          "sha512": "13c2b6ebb277f000251fd7da250369e379f172674ced1fce9911cfd308123a7ed49f8f3410f1233b3d9d83a2e33e6e2419c19ea17c4bf403ff46a9a42e40270b",
+          "sha256": "a4c9b85032bca7b8df2957f7988f43916ce9d158106fa9ba99cca5de0e5408b2",
+          "sha1": "b3f281bebbc86216c752f4c156b381987e588bac",
+          "md5": "82a811c2b4cfd78f6f92bdac0d0dbc52"
         }
       ]
     },
