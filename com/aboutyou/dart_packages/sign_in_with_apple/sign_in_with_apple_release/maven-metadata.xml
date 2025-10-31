@@ -3,11 +3,12 @@
   <groupId>com.aboutyou.dart_packages.sign_in_with_apple</groupId>
   <artifactId>sign_in_with_apple_release</artifactId>
   <versioning>
-    <latest>0.29</latest>
-    <release>0.29</release>
+    <latest>0.30</latest>
+    <release>0.30</release>
     <versions>
       <version>0.29</version>
+      <version>0.30</version>
     </versions>
-    <lastUpdated>20251031033445</lastUpdated>
+    <lastUpdated>20251031073421</lastUpdated>
   </versioning>
 </metadata>

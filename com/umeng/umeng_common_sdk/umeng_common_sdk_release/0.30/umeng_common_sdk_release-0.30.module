@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.umeng.umeng_common_sdk",
+    "module": "umeng_common_sdk_release",
+    "version": "0.30",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "com.umeng.umsdk",
+          "module": "common",
+          "version": {
+            "requires": "9.7.7"
+          }
+        },
+        {
+          "group": "com.umeng.umsdk",
+          "module": "asms",
+          "version": {
+            "requires": "1.8.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "umeng_common_sdk_release-0.30.aar",
+          "url": "umeng_common_sdk_release-0.30.aar",
+          "size": 4873,
+          "sha512": "ecde6d7e6a2acd0cbb1403d7d4bdb9f682e476e9bcb14f58000ae0f450a6a200ebef1101d2e7a38767d2746c5f6a8cea5ca89cf259027e4462c0c9b1f65a074f",
+          "sha256": "26ea07f8e4e8d0fd06d77df93cca4b8439ee9ad6fc5f6ff5d30e2c38712843b8",
+          "sha1": "aee7b517442b34b27050d4c9fae10f79df30327f",
+          "md5": "d7f9d06b2c821aa054fbcd380cb30a35"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "com.umeng.umsdk",
+          "module": "common",
+          "version": {
+            "requires": "9.7.7"
+          }
+        },
+        {
+          "group": "com.umeng.umsdk",
+          "module": "asms",
+          "version": {
+            "requires": "1.8.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "umeng_common_sdk_release-0.30.aar",
+          "url": "umeng_common_sdk_release-0.30.aar",
+          "size": 4873,
+          "sha512": "ecde6d7e6a2acd0cbb1403d7d4bdb9f682e476e9bcb14f58000ae0f450a6a200ebef1101d2e7a38767d2746c5f6a8cea5ca89cf259027e4462c0c9b1f65a074f",
+          "sha256": "26ea07f8e4e8d0fd06d77df93cca4b8439ee9ad6fc5f6ff5d30e2c38712843b8",
+          "sha1": "aee7b517442b34b27050d4c9fae10f79df30327f",
+          "md5": "d7f9d06b2c821aa054fbcd380cb30a35"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "umeng_common_sdk_release-0.30-sources.jar",
+          "url": "umeng_common_sdk_release-0.30-sources.jar",
+          "size": 2648,
+          "sha512": "ff8502c9fc4321f26d9a8956ae2d0ae7d4b6722aa651f2c9e321c9b0b8963b4689d986337e8c09333a5aea0fcd4d9e1af3f2821680c8da2502fef1b6de9309f6",
+          "sha256": "e60e0cbf73e40e0026584ae4a6c1b6cdb7bce5908d2b445d40a29497c71abe9e",
+          "sha1": "87c88723d952a2bdf93f38995e19e1e323318b6d",
+          "md5": "337e83ae9bb1626d711a781bdc2b4de3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "umeng_common_sdk_release-0.30-javadoc.jar",
+          "url": "umeng_common_sdk_release-0.30-javadoc.jar",
+          "size": 265709,
+          "sha512": "3b039317340a594c6399e44f64f02ac3479fecbea2fdd991952888b3a84a634abd7ef436e0c0cc5b05dd14e8cbb7fdab7d3778895014d2bd52be5cae5dc7bf46",
+          "sha256": "15b31e0aba569ffb7842730b0cc3522952b6bb36fba0a58f87536d3578ed23ca",
+          "sha1": "281317272e953c4a34e0df1c5b817bd796c73abe",
+          "md5": "ff34125b1c79286d7b87eb62f7d87a97"
+        }
+      ]
+    }
+  ]
+}
