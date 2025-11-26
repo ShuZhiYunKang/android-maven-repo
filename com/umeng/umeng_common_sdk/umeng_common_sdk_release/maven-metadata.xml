@@ -3,12 +3,11 @@
   <groupId>com.umeng.umeng_common_sdk</groupId>
   <artifactId>umeng_common_sdk_release</artifactId>
   <versioning>
-    <latest>0.30</latest>
-    <release>0.30</release>
+    <latest>0.31</latest>
+    <release>0.31</release>
     <versions>
-      <version>0.29</version>
-      <version>0.30</version>
+      <version>0.31</version>
     </versions>
-    <lastUpdated>20251031073445</lastUpdated>
+    <lastUpdated>20251126105215</lastUpdated>
   </versioning>
 </metadata>
