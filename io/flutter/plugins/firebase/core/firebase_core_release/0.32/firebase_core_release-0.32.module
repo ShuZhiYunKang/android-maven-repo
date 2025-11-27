@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.firebase.core",
+    "module": "firebase_core_release",
+    "version": "0.32",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "firebase_core_release-0.32.aar",
+          "url": "firebase_core_release-0.32.aar",
+          "size": 27896,
+          "sha512": "4425569cb522b452943f10915612e0e55fc1966b7f44e2a23a02166fd2b1c2caf7fd721b7fc86e17205476e20a80ee41b3849bd270552a7a6d31f7985abf771b",
+          "sha256": "ee181f41f20ccd06a70958f8f1adda95d39a4f7d2d86c75c72636b6c504dbe66",
+          "sha1": "8c594b6949c951ab07322cd15b928829cbee1ee9",
+          "md5": "f27a5e1920695d082109192e472cde54"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-bom",
+          "version": {
+            "requires": "33.11.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-common"
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "firebase_core_release-0.32.aar",
+          "url": "firebase_core_release-0.32.aar",
+          "size": 27896,
+          "sha512": "4425569cb522b452943f10915612e0e55fc1966b7f44e2a23a02166fd2b1c2caf7fd721b7fc86e17205476e20a80ee41b3849bd270552a7a6d31f7985abf771b",
+          "sha256": "ee181f41f20ccd06a70958f8f1adda95d39a4f7d2d86c75c72636b6c504dbe66",
+          "sha1": "8c594b6949c951ab07322cd15b928829cbee1ee9",
+          "md5": "f27a5e1920695d082109192e472cde54"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "firebase_core_release-0.32-sources.jar",
+          "url": "firebase_core_release-0.32-sources.jar",
+          "size": 10366,
+          "sha512": "88ad567180dcbb0ab95da18ba6be008ab4987a2d166557e3e3ab3b66deb51eb210376c77b9b6c9e29bbac10f9c4818f6697ffacbf2f53e3e9edc6917c78b7d33",
+          "sha256": "c9e00d606e24c70dcf41e49ba53d884013ea3dfb3899f4462736275a72ef1981",
+          "sha1": "eefed0a760b3fc131e8c2b960b177d586318cf24",
+          "md5": "d31fce85d08730a855f6f15873083392"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "firebase_core_release-0.32-javadoc.jar",
+          "url": "firebase_core_release-0.32-javadoc.jar",
+          "size": 326630,
+          "sha512": "57b44df6a82c232acb056bb8b08fe097f8963728b116215a55720802bb0f8a9ddb8ce504087da8c7ce2611091e53bef9b479e9da40ff3caf3fb3a19d28827732",
+          "sha256": "5cb918d3283c29d7349f3dbd604ad8be510641865e219dd560cacd94be4a5c93",
+          "sha1": "cabcb4c553b856bbfac78c7561ccdbe7824cb80d",
+          "md5": "3aff3cc07176b0fe2dea3ff15990ec74"
+        }
+      ]
+    }
+  ]
+}

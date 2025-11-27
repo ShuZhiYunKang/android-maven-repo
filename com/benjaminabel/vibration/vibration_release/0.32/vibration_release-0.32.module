@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.benjaminabel.vibration",
+    "module": "vibration_release",
+    "version": "0.32",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_release-0.32.aar",
+          "url": "vibration_release-0.32.aar",
+          "size": 5444,
+          "sha512": "3cf52fc6e1672f179ba08083e0866bc4583f6c0ff06d99d0e4583556917a1ca0ba36557d9817a9766d0e6b872cf5fc322fd1e1ce1bfa26ebbabec0db7c7776fd",
+          "sha256": "3f062eb94cf6ddc6db5ae18c9a67832fcfca4215ed1acf903bf297aa82761e01",
+          "sha1": "321b699dac63a21bc623ffa85a28b786a85442b9",
+          "md5": "ebbd5f774d4a4660626a6cbc37ef2fd7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_release-0.32.aar",
+          "url": "vibration_release-0.32.aar",
+          "size": 5444,
+          "sha512": "3cf52fc6e1672f179ba08083e0866bc4583f6c0ff06d99d0e4583556917a1ca0ba36557d9817a9766d0e6b872cf5fc322fd1e1ce1bfa26ebbabec0db7c7776fd",
+          "sha256": "3f062eb94cf6ddc6db5ae18c9a67832fcfca4215ed1acf903bf297aa82761e01",
+          "sha1": "321b699dac63a21bc623ffa85a28b786a85442b9",
+          "md5": "ebbd5f774d4a4660626a6cbc37ef2fd7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_release-0.32-sources.jar",
+          "url": "vibration_release-0.32-sources.jar",
+          "size": 3055,
+          "sha512": "384eb290f3959fdee7c259a16e1644ce0676709e1319436f231a1522a548ce0da6c9c7cb04a44b1f3456d50b0488a26d7d80341b6469032740a43a3b226217cc",
+          "sha256": "70496470796b88fca44d8fc2ef720ac6bec89b83bbfdefe956dd680a981d8ab6",
+          "sha1": "daa83f1f05e9c60ae716519b35e89d79487faf04",
+          "md5": "6c40e406630f8b8a8285a64427b965be"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_release-0.32-javadoc.jar",
+          "url": "vibration_release-0.32-javadoc.jar",
+          "size": 265486,
+          "sha512": "04fc949575c229ff9bff34ba3e22c1c44cb0c28e3781f0ccea4e30288d3af8575a90da467d768fbf112dbad11b90f7bb46baf66db3969b119eb44e4ea504e3c8",
+          "sha256": "5cb85b2c7a983119ec7969b0a5a9b8c57708953d5f4bf56fa8624120da0083d5",
+          "sha1": "be91d182158f5945db204e6407149ca632364e26",
+          "md5": "f3b467e8a4d64ef760aa521e70a9a2db"
+        }
+      ]
+    }
+  ]
+}

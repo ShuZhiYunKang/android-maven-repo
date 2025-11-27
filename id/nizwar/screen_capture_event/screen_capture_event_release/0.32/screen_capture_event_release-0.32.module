@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "id.nizwar.screen_capture_event",
+    "module": "screen_capture_event_release",
+    "version": "0.32",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "screen_capture_event_release-0.32.aar",
+          "url": "screen_capture_event_release-0.32.aar",
+          "size": 12170,
+          "sha512": "6ef64920960878bcd87bdc4e986ec91471517127526c37672cfd4233459eb5d39d73d99f0da6b465f02ce3e6c44787a7d5af7db8c2c7d24734ba740d781efe3b",
+          "sha256": "922adee634cd23b6a8b7a62f2c4d93f52f96129052bd0c92098e11461d542dc1",
+          "sha1": "ecf42597acdc2698c8faecc351edcd06ee247840",
+          "md5": "c00f63214ac65ea419368f371328b357"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "screen_capture_event_release-0.32.aar",
+          "url": "screen_capture_event_release-0.32.aar",
+          "size": 12170,
+          "sha512": "6ef64920960878bcd87bdc4e986ec91471517127526c37672cfd4233459eb5d39d73d99f0da6b465f02ce3e6c44787a7d5af7db8c2c7d24734ba740d781efe3b",
+          "sha256": "922adee634cd23b6a8b7a62f2c4d93f52f96129052bd0c92098e11461d542dc1",
+          "sha1": "ecf42597acdc2698c8faecc351edcd06ee247840",
+          "md5": "c00f63214ac65ea419368f371328b357"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "screen_capture_event_release-0.32-sources.jar",
+          "url": "screen_capture_event_release-0.32-sources.jar",
+          "size": 3290,
+          "sha512": "2e56fe43d903f199950826f12aa2faa6cb01ed062805911183c9658c4811f15e21f20a766e4ab0ad4a2dbcaed814e326bc94197417d8827edbd0acc396734465",
+          "sha256": "d61a767283078b15b3b845e58594d416bad4d1086bbcf42e580f6585c4f9d771",
+          "sha1": "04d6fc9ddb95ea131bb593c6aed1378491128798",
+          "md5": "8d5e7d5909ee36858b5d9c7667638814"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "screen_capture_event_release-0.32-javadoc.jar",
+          "url": "screen_capture_event_release-0.32-javadoc.jar",
+          "size": 273339,
+          "sha512": "d53331e5d7906ab4848ba1b16077b39c05b1e07594732ce821e89459b69d7eca30abe04f9cb1e1950317e8d2e6050bc8b103c377e4192bcb662e71ff65d9c18a",
+          "sha256": "66d300696781081fc2fb2ccbd1b783a2abf7ef6ba57baa1f768c282eab26dde3",
+          "sha1": "1c6fd200e6c32e1ff47a0e5dd909a1ea342ccb27",
+          "md5": "1bc19d7b0be1d9f65e96a8b42a23aa7b"
+        }
+      ]
+    }
+  ]
+}
