@@ -1,0 +1,158 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.steenbakker.mobile_scanner",
+    "module": "mobile_scanner_release",
+    "version": "0.33",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mobile_scanner_release-0.33.aar",
+          "url": "mobile_scanner_release-0.33.aar",
+          "size": 70735,
+          "sha512": "9c68497afc05dd5047f48fc0d8143b35b40383230529256476702e212f4d320531a5316a7dc555dac44ad627ae834c500e98f4d756d114acf9b3fbca5652bcbc",
+          "sha256": "4ab83b339c706bd6245a1f0ce9c8f265cbb294e992efeff773e5732ea4f18714",
+          "sha1": "8f41731ecb2724feafb9b0ba98e1bb71d11b3a11",
+          "md5": "09bcd945c9b91afe8b3f1dd63b5404d4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "barcode-scanning",
+          "version": {
+            "requires": "17.3.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-lifecycle",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-camera2",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.10.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mobile_scanner_release-0.33.aar",
+          "url": "mobile_scanner_release-0.33.aar",
+          "size": 70735,
+          "sha512": "9c68497afc05dd5047f48fc0d8143b35b40383230529256476702e212f4d320531a5316a7dc555dac44ad627ae834c500e98f4d756d114acf9b3fbca5652bcbc",
+          "sha256": "4ab83b339c706bd6245a1f0ce9c8f265cbb294e992efeff773e5732ea4f18714",
+          "sha1": "8f41731ecb2724feafb9b0ba98e1bb71d11b3a11",
+          "md5": "09bcd945c9b91afe8b3f1dd63b5404d4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mobile_scanner_release-0.33-sources.jar",
+          "url": "mobile_scanner_release-0.33-sources.jar",
+          "size": 21208,
+          "sha512": "65c455a46c1b109f6f6515680b4f15313461e09089e6586971cbcd18cc8e8d11eb1c9e0757fe7254bd6dc64b1c00cfdf6064cbc403e3f0baa851632dcb84a6e3",
+          "sha256": "7e151993935facc761e0cb4f645e76e723ee2dd6f251cdfa2a97740fa58ec85f",
+          "sha1": "4f02d757aa6da6063d05443d38bbb60a504a0e71",
+          "md5": "669304cc18d1b6da20863ed4cc5a9a6c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mobile_scanner_release-0.33-javadoc.jar",
+          "url": "mobile_scanner_release-0.33-javadoc.jar",
+          "size": 381547,
+          "sha512": "af3017a7b0192f1e49dfd92aca4bb50e497a140109d9c6e11216a5d30a508300582d8f3cc0ee39cd17ab87737e558dfc92cd4fef58cc3a5d6580c45bc27b2e00",
+          "sha256": "169b006b6ee5b8eb97c4b81fa9ff0b8a9b63b8f93443a677f6a4544390ecb6de",
+          "sha1": "68b4f9bf6771b37135a65de7993428043de089bb",
+          "md5": "c6afe5dc843eb58c50ad81edfa2f7831"
+        }
+      ]
+    }
+  ]
+}

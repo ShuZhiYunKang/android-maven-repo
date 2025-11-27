@@ -1,0 +1,207 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.yongxin_ring",
+    "module": "yongxin_ring_release",
+    "version": "0.33",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "yongxin_ring_release-0.33.aar",
+          "url": "yongxin_ring_release-0.33.aar",
+          "size": 54896,
+          "sha512": "e828936636671edeb48e5167695b3fd2009745de63059dfd130639226975683c4fce6babd1bf8e475d70f7883a0b576ec1b3a6e0130a34b6605cd447b964efea",
+          "sha256": "f2f24b406c5e0f9104bdfa70fcc1c2316003ef177b64e9e0472522e97abcb187",
+          "sha1": "614f921c89ba3ba3b72b05159f9d7bd377a15dbd",
+          "md5": "54fdd16fbbf8ed62072f163a874293e1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.lm",
+          "module": "chipletRing",
+          "version": {
+            "requires": "1.1.14"
+          }
+        },
+        {
+          "group": "androidx.localbroadcastmanager",
+          "module": "localbroadcastmanager",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "greendao",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "org.ligboy.retrofit2",
+          "module": "converter-fastjson-android",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "adapter-rxjava",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "24.0.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.11.0"
+          }
+        },
+        {
+          "group": "com.zhy",
+          "module": "okhttputils",
+          "version": {
+            "requires": "2.6.2"
+          }
+        },
+        {
+          "group": "com.tenmeter.smlibrary",
+          "module": "tenmeter",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "yongxin_ring_release-0.33.aar",
+          "url": "yongxin_ring_release-0.33.aar",
+          "size": 54896,
+          "sha512": "e828936636671edeb48e5167695b3fd2009745de63059dfd130639226975683c4fce6babd1bf8e475d70f7883a0b576ec1b3a6e0130a34b6605cd447b964efea",
+          "sha256": "f2f24b406c5e0f9104bdfa70fcc1c2316003ef177b64e9e0472522e97abcb187",
+          "sha1": "614f921c89ba3ba3b72b05159f9d7bd377a15dbd",
+          "md5": "54fdd16fbbf8ed62072f163a874293e1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "yongxin_ring_release-0.33-sources.jar",
+          "url": "yongxin_ring_release-0.33-sources.jar",
+          "size": 15572,
+          "sha512": "12f4b00d56da1398124535107f42c4e5b5a67694e40f36b673fce36fbf02fcfde617d63cd0f30a746f71236aa857a721cd08d8745944699257b35451b3620d15",
+          "sha256": "07b67529dae2d0fdc87321a866af01b8e9332c9b6150555f21d434b6e9742cf6",
+          "sha1": "e2bb7c12bf10a2dc6f84205a2ef765d8228dec2b",
+          "md5": "7361e4c0f3c83f2b79376c9d66a67aad"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "yongxin_ring_release-0.33-javadoc.jar",
+          "url": "yongxin_ring_release-0.33-javadoc.jar",
+          "size": 301406,
+          "sha512": "99365ae22f5131045e0a064c89708b84fa96dfdf9ba10138c80dc9d796a1e5d7a6813b337f3234a4736a91ea0d86b489d15ee1466a864213fff493ab5e1fbce0",
+          "sha256": "de5d44c108fafe1a44affe18daf8c774b930e3f77835673fc252636cd22e5fbd",
+          "sha1": "9dd0a0f959d437c621fefbac82dec0ed6ce7452b",
+          "md5": "18640edac2200614f4ffa2ea75f47324"
+        }
+      ]
+    }
+  ]
+}
