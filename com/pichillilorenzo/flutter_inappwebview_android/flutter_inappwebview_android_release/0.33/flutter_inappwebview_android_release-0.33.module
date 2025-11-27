@@ -132,11 +132,11 @@
         {
           "name": "flutter_inappwebview_android_release-0.33-javadoc.jar",
           "url": "flutter_inappwebview_android_release-0.33-javadoc.jar",
-          "size": 1167716,
-          "sha512": "b98efdfda0f2c73340546c81fe1c58b7758e421db149d48e0ac54287e325b2171f8a0ef1607ed91e514f2cb4e337a52f4872c2c7afa847ee531f31bd5dd17970",
-          "sha256": "4d07a20d0b87c3fcb42c325308a063166ec1407e89ba6cc46eaf71c11fe9a349",
-          "sha1": "efee9b0cc41a4f71a9dc6d2ec5ed1fe19f284ee5",
-          "md5": "3fb8f37661572e8323978f87bdb636db"
+          "size": 1167722,
+          "sha512": "a0a7109ff0cf1a0e0fa06dcac4b12f7fff2179c811f7928588e32bd5b23c218779834d5c11e78f0a0c816ccd87e2fe5b9a34bc908e9bdc40de58bd1525ee4116",
+          "sha256": "131b07792290f099f9bd9e0b37922cbbf1705a4e0662468c1e7a78f751b0ed96",
+          "sha1": "6e2b0bf707430208c95dd08368197223198b130b",
+          "md5": "6745eb17c8c4452a0249e974b40afffc"
         }
       ]
     }

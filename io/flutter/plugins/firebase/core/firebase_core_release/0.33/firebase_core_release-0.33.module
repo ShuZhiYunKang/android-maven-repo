@@ -126,11 +126,11 @@
         {
           "name": "firebase_core_release-0.33-javadoc.jar",
           "url": "firebase_core_release-0.33-javadoc.jar",
-          "size": 326640,
-          "sha512": "41daec56c536cbbd7df449d132981beac244934303bec5b9c1f48786fe16ae58ec25b921a3751ab068320e20f783a0d63148fba45ead7b514f0ec20ad788eab4",
-          "sha256": "2a3acf9ad3c51351ee650b82c754a88894d2747c23bf7d08222b4efe2b868060",
-          "sha1": "b39a837c261e897e63307d02a4f510313b9fd0db",
-          "md5": "bd70e62e6a1a92784b66fcc2d6f29e39"
+          "size": 326636,
+          "sha512": "e00c92a2b12668e4b7fdf3426118080b6c73055c2f1c11fbc97b1fd95f74c9e795a595e5ccd18bcdfd4fb19d03a305f78a2fc115829d98681121fd0169aabead",
+          "sha256": "f659ac4c21bd5e6718dcb4da7f586f1da43251c64828be298d3926c97967bf39",
+          "sha1": "61afb648142a826b042aacda1a588e8b9c129a04",
+          "md5": "bbbe8c9e8c25b6ce4f9e291916f3d8c7"
         }
       ]
     }

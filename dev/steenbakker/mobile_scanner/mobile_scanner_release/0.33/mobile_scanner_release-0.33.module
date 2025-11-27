@@ -42,11 +42,11 @@
         {
           "name": "mobile_scanner_release-0.33.aar",
           "url": "mobile_scanner_release-0.33.aar",
-          "size": 70735,
-          "sha512": "9c68497afc05dd5047f48fc0d8143b35b40383230529256476702e212f4d320531a5316a7dc555dac44ad627ae834c500e98f4d756d114acf9b3fbca5652bcbc",
-          "sha256": "4ab83b339c706bd6245a1f0ce9c8f265cbb294e992efeff773e5732ea4f18714",
-          "sha1": "8f41731ecb2724feafb9b0ba98e1bb71d11b3a11",
-          "md5": "09bcd945c9b91afe8b3f1dd63b5404d4"
+          "size": 68176,
+          "sha512": "a0bea41069722b97ea3429f99e21356b479a47758f6aba3368748acc35daa0e51083cc401ca9e73c283fed077ab15d7bcd84df2ed01381cf9d306700d1ccd549",
+          "sha256": "5d9e90a51af5ba779636131e20d901631e2d3a90b2cc7ea182d9912722654a70",
+          "sha1": "ebf40de4bfbe78eb4933acd14269b0139fb5b6e9",
+          "md5": "948dc225c0c689698ed6701270dbda68"
         }
       ]
     },
@@ -77,21 +77,21 @@
           "group": "androidx.camera",
           "module": "camera-lifecycle",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.3.4"
           }
         },
         {
           "group": "androidx.camera",
           "module": "camera-camera2",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.3.4"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.10.2"
+            "requires": "1.7.3"
           }
         },
         {
@@ -106,11 +106,11 @@
         {
           "name": "mobile_scanner_release-0.33.aar",
           "url": "mobile_scanner_release-0.33.aar",
-          "size": 70735,
-          "sha512": "9c68497afc05dd5047f48fc0d8143b35b40383230529256476702e212f4d320531a5316a7dc555dac44ad627ae834c500e98f4d756d114acf9b3fbca5652bcbc",
-          "sha256": "4ab83b339c706bd6245a1f0ce9c8f265cbb294e992efeff773e5732ea4f18714",
-          "sha1": "8f41731ecb2724feafb9b0ba98e1bb71d11b3a11",
-          "md5": "09bcd945c9b91afe8b3f1dd63b5404d4"
+          "size": 68176,
+          "sha512": "a0bea41069722b97ea3429f99e21356b479a47758f6aba3368748acc35daa0e51083cc401ca9e73c283fed077ab15d7bcd84df2ed01381cf9d306700d1ccd549",
+          "sha256": "5d9e90a51af5ba779636131e20d901631e2d3a90b2cc7ea182d9912722654a70",
+          "sha1": "ebf40de4bfbe78eb4933acd14269b0139fb5b6e9",
+          "md5": "948dc225c0c689698ed6701270dbda68"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mobile_scanner_release-0.33-sources.jar",
           "url": "mobile_scanner_release-0.33-sources.jar",
-          "size": 21208,
-          "sha512": "65c455a46c1b109f6f6515680b4f15313461e09089e6586971cbcd18cc8e8d11eb1c9e0757fe7254bd6dc64b1c00cfdf6064cbc403e3f0baa851632dcb84a6e3",
-          "sha256": "7e151993935facc761e0cb4f645e76e723ee2dd6f251cdfa2a97740fa58ec85f",
-          "sha1": "4f02d757aa6da6063d05443d38bbb60a504a0e71",
-          "md5": "669304cc18d1b6da20863ed4cc5a9a6c"
+          "size": 20090,
+          "sha512": "d3362bed54acd1325cb709f17d94411437ca5b2f26cbf04bee894c45a1014964f855f9869cfa4d57be601465f6af445a644a3b756f1fe922cb86ea7dd856faed",
+          "sha256": "d83d054e3d529b76cfe1b623f586029ca1492f55dd21a3d0a20a33654ac085cd",
+          "sha1": "e46370da755c3f10ba18bb11111dfda70707b9d0",
+          "md5": "020546aa5e6a0183f636d87d2e226082"
         }
       ]
     },
@@ -146,11 +146,11 @@
         {
           "name": "mobile_scanner_release-0.33-javadoc.jar",
           "url": "mobile_scanner_release-0.33-javadoc.jar",
-          "size": 381547,
-          "sha512": "af3017a7b0192f1e49dfd92aca4bb50e497a140109d9c6e11216a5d30a508300582d8f3cc0ee39cd17ab87737e558dfc92cd4fef58cc3a5d6580c45bc27b2e00",
-          "sha256": "169b006b6ee5b8eb97c4b81fa9ff0b8a9b63b8f93443a677f6a4544390ecb6de",
-          "sha1": "68b4f9bf6771b37135a65de7993428043de089bb",
-          "md5": "c6afe5dc843eb58c50ad81edfa2f7831"
+          "size": 380197,
+          "sha512": "f89ca1b4a0dd497d41c45d0f5ca9fdb8dc10f51d98924667ef7edb922625b67f4ce89b46de3f8dde7dd37bb468c7f627df6f38a76129b6c59c43a1d5b18d98ce",
+          "sha256": "59ddbc0a78eddff87b9dd16d73d0a241148cf07a139b3f4d9128d5e192b5cf27",
+          "sha1": "aa8cf4da038368fae0faaea87d842ab6eca1d361",
+          "md5": "4d505d0e8ebf3a27f34c7c6fbb2976a2"
         }
       ]
     }

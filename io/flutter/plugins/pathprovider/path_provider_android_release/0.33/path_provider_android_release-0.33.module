@@ -111,11 +111,11 @@
         {
           "name": "path_provider_android_release-0.33-javadoc.jar",
           "url": "path_provider_android_release-0.33-javadoc.jar",
-          "size": 294232,
-          "sha512": "0741e2b419c1728dac59b3f1842bcd52a86fe51390fe4b24d717dc228446d1d29c4072a05be2356170c299580f195801ae559cbcb5a0e4a1ad1a64d3fde21010",
-          "sha256": "b031cf6cb5988cfe0c67faeefe21d3f9ae6270e1c4687afbad1bb2e82de75fab",
-          "sha1": "9b4b85eced425a1ff29a5b86afb2d30f1161fabd",
-          "md5": "5d2a0ee919331ec208cbd57bb4cfd3e1"
+          "size": 294219,
+          "sha512": "94b773fd52dab2fabb99223aaf67e9e8dec3cea3b7636a5ec7db4db3d89c6fb729b4c0b4b530b98921800645052369dc0d81d6f89221238be76151a03fd63caa",
+          "sha256": "8234173652b4927f676c959e2f83690a5614aefd818b27e03547f7da9975d74f",
+          "sha1": "f2d0feb4731c12a133f57df6062691dd54ef113c",
+          "md5": "fa9432e4c4dc0fb953d361fe55185a0f"
         }
       ]
     }
