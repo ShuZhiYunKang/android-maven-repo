@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.camerax",
+    "module": "camera_android_camerax_release",
+    "version": "0.37",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_android_camerax_release-0.37.aar",
+          "url": "camera_android_camerax_release-0.37.aar",
+          "size": 266218,
+          "sha512": "544362c5ff1f3dfd670bdd3b139a956eac39301eaa4567deb2bbd70ebf7fdb10d4b2db3279dc8d8d98120bea20447cc1be08e6d6be19d719be9b68c7e3025c9b",
+          "sha256": "818b9d45bac3888e15c2e5e908c6e89136d4b2e1b116e14e897eff19fb2591f5",
+          "sha1": "ae55d2037022e6ba7311a33962718a865d919ef3",
+          "md5": "e115344ccf08c22c2c20497ee49725da"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-core",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-camera2",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-lifecycle",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-video",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.3.1-android"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "camera_android_camerax_release-0.37.aar",
+          "url": "camera_android_camerax_release-0.37.aar",
+          "size": 266218,
+          "sha512": "544362c5ff1f3dfd670bdd3b139a956eac39301eaa4567deb2bbd70ebf7fdb10d4b2db3279dc8d8d98120bea20447cc1be08e6d6be19d719be9b68c7e3025c9b",
+          "sha256": "818b9d45bac3888e15c2e5e908c6e89136d4b2e1b116e14e897eff19fb2591f5",
+          "sha1": "ae55d2037022e6ba7311a33962718a865d919ef3",
+          "md5": "e115344ccf08c22c2c20497ee49725da"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "camera_android_camerax_release-0.37-sources.jar",
+          "url": "camera_android_camerax_release-0.37-sources.jar",
+          "size": 86316,
+          "sha512": "5382ce18bd09440222ebf82115235b669fd9af0e5aa1b7230156e004966fa02af4d6769714e893b0e78dff5e9f64a7111abc9ae654e1ab61bf292113b6ecdfc0",
+          "sha256": "79f2b55e1b567c1876f27760b5465af879a2a59f33efec52baeeb486833fa9f7",
+          "sha1": "e6e78d7a217d954c995f6146e7d112c64e43e04f",
+          "md5": "e33d81ce6a5534f6131cd452966dd58f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "camera_android_camerax_release-0.37-javadoc.jar",
+          "url": "camera_android_camerax_release-0.37-javadoc.jar",
+          "size": 900747,
+          "sha512": "50aa07b5b69cb6a2777fcfb2fdcb2832bfde611e690ad6113fb2cea5c34619900532118e5247e82403768a2808ade002df6dded41f2a585c90357874a6588c6f",
+          "sha256": "59cf97dbea83cf62f7c2eb845500aef384af853ad96563d9e109fcfb78e21291",
+          "sha1": "6b0a61ed88e04d4de115c59b9e6c0f19c8dc54fd",
+          "md5": "257638b1238db0aa572ac9a30a25071e"
+        }
+      ]
+    }
+  ]
+}

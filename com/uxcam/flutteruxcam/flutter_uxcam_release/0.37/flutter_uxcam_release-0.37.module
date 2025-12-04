@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.uxcam.flutteruxcam",
+    "module": "flutter_uxcam_release",
+    "version": "0.37",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_uxcam_release-0.37.aar",
+          "url": "flutter_uxcam_release-0.37.aar",
+          "size": 15630,
+          "sha512": "d73929120cbb67296aef2ceafa840d0b3e4e816ea03bc35fa0d4f87983c1f6cd598fbb661067e40253a664533edb8314db13a5c81d1ad7caf1dd6939a6e2f4f1",
+          "sha256": "be5d3b8d9737ae769dd2f084f6dfcff34953003421e418fd2af75a8a38403385",
+          "sha1": "737318f58b543b6fff4bae4dd5645f13d46387ce",
+          "md5": "d36cc8a6b15f3da90395a8381c359142"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.uxcam",
+          "module": "uxcam",
+          "version": {
+            "requires": "3.7.3"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.8.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_uxcam_release-0.37.aar",
+          "url": "flutter_uxcam_release-0.37.aar",
+          "size": 15630,
+          "sha512": "d73929120cbb67296aef2ceafa840d0b3e4e816ea03bc35fa0d4f87983c1f6cd598fbb661067e40253a664533edb8314db13a5c81d1ad7caf1dd6939a6e2f4f1",
+          "sha256": "be5d3b8d9737ae769dd2f084f6dfcff34953003421e418fd2af75a8a38403385",
+          "sha1": "737318f58b543b6fff4bae4dd5645f13d46387ce",
+          "md5": "d36cc8a6b15f3da90395a8381c359142"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_uxcam_release-0.37-sources.jar",
+          "url": "flutter_uxcam_release-0.37-sources.jar",
+          "size": 6624,
+          "sha512": "8c8995128d92a57940fc4ee3e197a0c24043259571da84341c0033ac0c3e14c86692995b1fb3445702f6bf90978e766348da6498e74089f5d2229be78fead2c6",
+          "sha256": "38576f89ca9a96e844bc0811bb6268e5a97ca6cebf7ddcf35fb62eafa63f0ff8",
+          "sha1": "b5de60a02ecbc73237aac07c073ea8a38b9e3c72",
+          "md5": "71e9af78ee02c8408fa779d1ec7bdf5a"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_uxcam_release-0.37-javadoc.jar",
+          "url": "flutter_uxcam_release-0.37-javadoc.jar",
+          "size": 286927,
+          "sha512": "92f583f6d30e617cde318bd21252c52dcf72d5ef15ad0ff6da9379067ef3582b0a5a563e6f253e6d39910f36d826240cd2eab17787f0d3fca75bbcc2e531d271",
+          "sha256": "c21c5b9e7b6d1b0c598e2be84c77fc169b90d6b11d2d1260615e75bf3a862f53",
+          "sha1": "09a1dc85fec24bdb2059ec4b021b22a8ec72d780",
+          "md5": "ad3aecd39d71df05e78257a647cb9e34"
+        }
+      ]
+    }
+  ]
+}
