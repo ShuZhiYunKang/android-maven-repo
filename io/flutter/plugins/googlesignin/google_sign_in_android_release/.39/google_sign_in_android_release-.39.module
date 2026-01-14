@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.googlesignin",
+    "module": "google_sign_in_android_release",
+    "version": ".39",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_sign_in_android_release-.39.aar",
+          "url": "google_sign_in_android_release-.39.aar",
+          "size": 32370,
+          "sha512": "3bee7fb762c3354caa2d31c1d4479ee861fcc8d3ddeb32e7dc8fe2904f4f259a31511e05d7fd0c9e0ee5a7ec31e7b43144ea3972deb321fae994215106733c6f",
+          "sha256": "5a61a8ea00143fa6d9820ab79f74ee28d066fbd8074218e1ffcb8b1738d929fe",
+          "sha1": "540c5f16e9f8a6e0f4082e8820da59652257166b",
+          "md5": "91f6912bf921558c0e511a9781e05b78"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth",
+          "version": {
+            "requires": "21.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_sign_in_android_release-.39.aar",
+          "url": "google_sign_in_android_release-.39.aar",
+          "size": 32370,
+          "sha512": "3bee7fb762c3354caa2d31c1d4479ee861fcc8d3ddeb32e7dc8fe2904f4f259a31511e05d7fd0c9e0ee5a7ec31e7b43144ea3972deb321fae994215106733c6f",
+          "sha256": "5a61a8ea00143fa6d9820ab79f74ee28d066fbd8074218e1ffcb8b1738d929fe",
+          "sha1": "540c5f16e9f8a6e0f4082e8820da59652257166b",
+          "md5": "91f6912bf921558c0e511a9781e05b78"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_sign_in_android_release-.39-sources.jar",
+          "url": "google_sign_in_android_release-.39-sources.jar",
+          "size": 11750,
+          "sha512": "a076a3ab2783e9605712cd675db915170332f1c10199520e8ed282e612a187bdbf9cf5246f89dab12bee5aff0ae0af14b198eb1941d0bd944f3516b83e29ffcf",
+          "sha256": "ffbebf33efe5de1e2686c7927d0c094af8b35912b055a4d423dd80713b1b8f14",
+          "sha1": "561a2032af2f873ddae6450d0cad46aa82a5a2cb",
+          "md5": "7655baa785bb4b603c84ef864a8625ab"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_sign_in_android_release-.39-javadoc.jar",
+          "url": "google_sign_in_android_release-.39-javadoc.jar",
+          "size": 334869,
+          "sha512": "03b1a8486b670d895cec2ef59e6990c2456cc40b20ef3600f73dd74e7d255159c663f4d20a2fc5372f43f79d49de800f79d99cab30ed8d97eefae5e10bb18b95",
+          "sha256": "16caa4f403729b95b8a3877fdac8fe8200445c7e46cbee41c5c53fde03953538",
+          "sha1": "3223928d766dd4a09300bbe26cc0fe109fe31c46",
+          "md5": "1b95eaa665a7fd7aa7200885cae62458"
+        }
+      ]
+    }
+  ]
+}

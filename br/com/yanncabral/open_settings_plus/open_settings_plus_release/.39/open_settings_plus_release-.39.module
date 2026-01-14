@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.yanncabral.open_settings_plus",
+    "module": "open_settings_plus_release",
+    "version": ".39",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_settings_plus_release-.39.aar",
+          "url": "open_settings_plus_release-.39.aar",
+          "size": 3596,
+          "sha512": "f00b0e273b062fd98ec9c84140edd93dbceb3731acbdcbd7e0165b9061c7e9799913846cfa1af190f51838906a666fac3b84e56cd74fac5e59a74954fdc36e93",
+          "sha256": "15befe34731621ba597a47a86fca986144b8e6872a5be24b334154a3f2e16f6e",
+          "sha1": "12c6a026662eb9c307f0253457d7b3f00cabbb00",
+          "md5": "26dbd129c52f70c186e51ced3a47060f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_settings_plus_release-.39.aar",
+          "url": "open_settings_plus_release-.39.aar",
+          "size": 3596,
+          "sha512": "f00b0e273b062fd98ec9c84140edd93dbceb3731acbdcbd7e0165b9061c7e9799913846cfa1af190f51838906a666fac3b84e56cd74fac5e59a74954fdc36e93",
+          "sha256": "15befe34731621ba597a47a86fca986144b8e6872a5be24b334154a3f2e16f6e",
+          "sha1": "12c6a026662eb9c307f0253457d7b3f00cabbb00",
+          "md5": "26dbd129c52f70c186e51ced3a47060f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "open_settings_plus_release-.39-sources.jar",
+          "url": "open_settings_plus_release-.39-sources.jar",
+          "size": 1861,
+          "sha512": "612e60539ae7072416914a3ac83a991ce0ef011383c2bb410fd6670b4e0f0d275eeace157ff90b5e50b900dd784edeff00b8631dc325e5ef2127a2bd3e88e836",
+          "sha256": "b7b3259fbcc07820994bf52cca27c6a97589284800e43ea1d36266e004432455",
+          "sha1": "d3ad2f79ffb39e6f3c69ec30abd224d86e0e8560",
+          "md5": "adc23d64dcc2be199888414a82218fdb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "open_settings_plus_release-.39-javadoc.jar",
+          "url": "open_settings_plus_release-.39-javadoc.jar",
+          "size": 260998,
+          "sha512": "06adffddfa327116a604925e906f00563c2b898fb805365b875352fe72b947d486f138956d203f7e5dc11d324d3b9be0f833d1c360e6384450553d809d333ce1",
+          "sha256": "0f06bd41d9d04411ad0709191cfce7b9f450f2df2b43e5693efa62dfa6eda6d4",
+          "sha1": "5e7c35be647ddb276713736506a657bdf12d3e5c",
+          "md5": "0a2d03a88c57a10c5b673610e9ea3cf3"
+        }
+      ]
+    }
+  ]
+}
