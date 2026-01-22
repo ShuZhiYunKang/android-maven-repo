@@ -3,15 +3,16 @@
   <groupId>com.example.yongxin_ring</groupId>
   <artifactId>yongxin_ring_release</artifactId>
   <versioning>
-    <latest>0.44</latest>
-    <release>0.44</release>
+    <latest>0.45</latest>
+    <release>0.45</release>
     <versions>
       <version>0.40</version>
       <version>0.41</version>
       <version>0.42</version>
       <version>0.43</version>
       <version>0.44</version>
+      <version>0.45</version>
     </versions>
-    <lastUpdated>20260119092416</lastUpdated>
+    <lastUpdated>20260122072144</lastUpdated>
   </versioning>
 </metadata>
