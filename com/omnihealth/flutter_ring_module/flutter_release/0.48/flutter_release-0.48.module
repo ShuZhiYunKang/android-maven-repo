@@ -1,0 +1,690 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omnihealth.flutter_ring_module",
+    "module": "flutter_release",
+    "version": "0.48",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.ryanheise.audio_session",
+          "module": "audio_session_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camerax",
+          "module": "camera_android_camerax_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.connectivity",
+          "module": "connectivity_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.core",
+          "module": "firebase_core_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebaseperformance",
+          "module": "firebase_performance_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.firebaseremoteconfig",
+          "module": "firebase_remote_config_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.lib.flutter_blue_plus",
+          "module": "flutter_blue_plus_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.crazecoder.flutterbugly",
+          "module": "flutter_bugly_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.fluttercandies.flutter_image_compress",
+          "module": "flutter_image_compress_common_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.pichillilorenzo.flutter_inappwebview_android",
+          "module": "flutter_inappwebview_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.dexterous.flutterlocalnotifications",
+          "module": "flutter_local_notifications_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "ch.simonbraillard.flutter_new_badger",
+          "module": "flutter_new_badger_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.flutter_platform_alert",
+          "module": "flutter_platform_alert_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "net.wolverinebeach.flutter_timezone",
+          "module": "flutter_timezone_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.cloudwebrtc.webrtc",
+          "module": "flutter_webrtc_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.FlutterToast",
+          "module": "fluttertoast_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.googlesignin",
+          "module": "google_sign_in_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "cachet.plugins.health",
+          "module": "health_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.imagepicker",
+          "module": "image_picker_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.inapppurchase",
+          "module": "in_app_purchase_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.ryanheise.just_audio",
+          "module": "just_audio_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.steenbakker.mobile_scanner",
+          "module": "mobile_scanner_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "br.com.yanncabral.open_settings_plus",
+          "module": "open_settings_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.packageinfo",
+          "module": "package_info_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "id.nizwar.screen_capture_event",
+          "module": "screen_capture_event_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.aboutyou.dart_packages.sign_in_with_apple",
+          "module": "sign_in_with_apple_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.tekartik.sqflite",
+          "module": "sqflite_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "eu.simonbinder.sqlite3_flutter_libs",
+          "module": "sqlite3_flutter_libs_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.umeng.umeng_common_sdk",
+          "module": "umeng_common_sdk_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.benjaminabel.vibration",
+          "module": "vibration_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.videoplayer",
+          "module": "video_player_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.yongxin_ring",
+          "module": "yongxin_ring_release",
+          "version": {
+            "requires": "0.48"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_release-0.48.aar",
+          "url": "flutter_release-0.48.aar",
+          "size": 89761461,
+          "sha512": "29ea754b34946c650459a76b8e404ae17a5d51685556759cea8c869d407d4ca63c1e93e1f81cd0a9156350a146e6a1dee9a8007892c631646554fab7790b8186",
+          "sha256": "3b509e8543d27238c1a2d69485c5ac52498b42d23b973de273d1f8ae16406179",
+          "sha1": "36f0ff095aeecacff0706dcef52f10bfa33aa102",
+          "md5": "3fe60089b137fbd6fca42b18e3f7df91"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "com.ryanheise.audio_session",
+          "module": "audio_session_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.camerax",
+          "module": "camera_android_camerax_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.connectivity",
+          "module": "connectivity_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.core",
+          "module": "firebase_core_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebaseperformance",
+          "module": "firebase_performance_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.firebase.firebaseremoteconfig",
+          "module": "firebase_remote_config_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.lib.flutter_blue_plus",
+          "module": "flutter_blue_plus_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.crazecoder.flutterbugly",
+          "module": "flutter_bugly_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.fluttercandies.flutter_image_compress",
+          "module": "flutter_image_compress_common_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.pichillilorenzo.flutter_inappwebview_android",
+          "module": "flutter_inappwebview_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.dexterous.flutterlocalnotifications",
+          "module": "flutter_local_notifications_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "ch.simonbraillard.flutter_new_badger",
+          "module": "flutter_new_badger_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.flutter_platform_alert",
+          "module": "flutter_platform_alert_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "net.wolverinebeach.flutter_timezone",
+          "module": "flutter_timezone_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.cloudwebrtc.webrtc",
+          "module": "flutter_webrtc_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.FlutterToast",
+          "module": "fluttertoast_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.googlesignin",
+          "module": "google_sign_in_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "cachet.plugins.health",
+          "module": "health_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.imagepicker",
+          "module": "image_picker_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.inapppurchase",
+          "module": "in_app_purchase_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.ryanheise.just_audio",
+          "module": "just_audio_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.steenbakker.mobile_scanner",
+          "module": "mobile_scanner_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "br.com.yanncabral.open_settings_plus",
+          "module": "open_settings_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.packageinfo",
+          "module": "package_info_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "id.nizwar.screen_capture_event",
+          "module": "screen_capture_event_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.share",
+          "module": "share_plus_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.aboutyou.dart_packages.sign_in_with_apple",
+          "module": "sign_in_with_apple_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.tekartik.sqflite",
+          "module": "sqflite_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "eu.simonbinder.sqlite3_flutter_libs",
+          "module": "sqlite3_flutter_libs_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.umeng.umeng_common_sdk",
+          "module": "umeng_common_sdk_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.benjaminabel.vibration",
+          "module": "vibration_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.videoplayer",
+          "module": "video_player_android_release",
+          "version": {
+            "requires": "0.48"
+          }
+        },
+        {
+          "group": "com.example.yongxin_ring",
+          "module": "yongxin_ring_release",
+          "version": {
+            "requires": "0.48"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_release-0.48.aar",
+          "url": "flutter_release-0.48.aar",
+          "size": 89761461,
+          "sha512": "29ea754b34946c650459a76b8e404ae17a5d51685556759cea8c869d407d4ca63c1e93e1f81cd0a9156350a146e6a1dee9a8007892c631646554fab7790b8186",
+          "sha256": "3b509e8543d27238c1a2d69485c5ac52498b42d23b973de273d1f8ae16406179",
+          "sha1": "36f0ff095aeecacff0706dcef52f10bfa33aa102",
+          "md5": "3fe60089b137fbd6fca42b18e3f7df91"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_release-0.48-sources.jar",
+          "url": "flutter_release-0.48-sources.jar",
+          "size": 2291,
+          "sha512": "00e1f556d0684e573472a9c814c4d1768777097f591eb08bc6161699adcf9325810f4e23745bdfd213fd578112ce271104c3552e4a702b3a186f328b1e12ac6f",
+          "sha256": "30d3cda8814476c3ad5e31b042aa84b2e08968a276e9a24074003620e56a77e7",
+          "sha1": "ea0ad3725f9b897a5eae5b9c0f394ff7898e9281",
+          "md5": "d8c2dfa667f1f86ea3fbb3b4ba98e858"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_release-0.48-javadoc.jar",
+          "url": "flutter_release-0.48-javadoc.jar",
+          "size": 261619,
+          "sha512": "f4b0a61f4ec5192657bb94e826c6a2379c01016f1b3ad8a7199ba21435719c27333fbb0c2e74b7be6d40035f9c32b7b51ccaeb8d0d34a633bc2df90232b0563e",
+          "sha256": "08f57f52444836267cf451912e6031cc8d75cea58f93f40771fe4f72e052777a",
+          "sha1": "750175dd748d3f4ec46b895aa49084b0024bee80",
+          "md5": "964e6671f142b84d9665c686a2f825db"
+        }
+      ]
+    }
+  ]
+}
