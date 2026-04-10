@@ -1,0 +1,155 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cachet.plugins.health",
+    "module": "health_release",
+    "version": "0.49",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "health_release-0.49.aar",
+          "url": "health_release-0.49.aar",
+          "size": 66143,
+          "sha512": "af23714315396ef2ab12712db75f6696e3cb947ca2448344e49c55b34da8828efec98128abd78a4427d4222a8d4486b1486394d38db0ae1c2aff820e58210e00",
+          "sha256": "a2f8fe69177a957fb37fec0633a33c8ecc5947fcb7aa8944790430bd3ff70e8f",
+          "sha1": "3461de0731669f47f8daf60b1ab12ba66746dc8c",
+          "md5": "bc4a0c434e05c5cbf384dbcf5e220b23"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2022.10.00"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.9.22"
+          }
+        },
+        {
+          "group": "androidx.health.connect",
+          "module": "connect-client",
+          "version": {
+            "requires": "1.1.0-alpha07"
+          }
+        },
+        {
+          "group": "androidx.fragment",
+          "module": "fragment-ktx",
+          "version": {
+            "requires": "1.6.2"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "0.49"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "health_release-0.49.aar",
+          "url": "health_release-0.49.aar",
+          "size": 66143,
+          "sha512": "af23714315396ef2ab12712db75f6696e3cb947ca2448344e49c55b34da8828efec98128abd78a4427d4222a8d4486b1486394d38db0ae1c2aff820e58210e00",
+          "sha256": "a2f8fe69177a957fb37fec0633a33c8ecc5947fcb7aa8944790430bd3ff70e8f",
+          "sha1": "3461de0731669f47f8daf60b1ab12ba66746dc8c",
+          "md5": "bc4a0c434e05c5cbf384dbcf5e220b23"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "health_release-0.49-sources.jar",
+          "url": "health_release-0.49-sources.jar",
+          "size": 13597,
+          "sha512": "3511cb373eb3b59772ae53f559ea212d0af6c2229acf69b8b7c6196fdd6bf0d75f2102537bf14091de8b48d84c008614bcaa176fb6c307b25ed3c4f483a70dfa",
+          "sha256": "400feab9980e364f388ae87b083e5652f5e8883832a4bb3e3cfdac0a8bf92bab",
+          "sha1": "490f47e2545c5c38176328382574161f35fa7e52",
+          "md5": "dc62e6022cd8b7487ae65e12e69529d5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "health_release-0.49-javadoc.jar",
+          "url": "health_release-0.49-javadoc.jar",
+          "size": 271544,
+          "sha512": "d72890cf2f005417ba31305ccad412d7f913875f58f05fccba1b60fbd1ee8560b8c7b054b299b8ba0afba068ab1e93568951278327b2a3e8ea0141986217f292",
+          "sha256": "514abdb83311fccaed671b5f9f93704f401634308fdda35bb2bba88af6c00f47",
+          "sha1": "6028a184882ae1c268f1b9efab1b3f923206ef5a",
+          "md5": "80873182baf2ec832305e370f1de11f2"
+        }
+      ]
+    }
+  ]
+}
