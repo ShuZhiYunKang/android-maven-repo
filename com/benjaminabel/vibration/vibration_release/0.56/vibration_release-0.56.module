@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.benjaminabel.vibration",
+    "module": "vibration_release",
+    "version": "0.56",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_release-0.56.aar",
+          "url": "vibration_release-0.56.aar",
+          "size": 5670,
+          "sha512": "438671eeae568fb44f97b35fb6dd53ec5b65d27dc136268cb1b760a941b41961f1010d3ae4a0900ee554bbfb71b2d3ad4cf79b59afb8f07adf2a54a1b9b8c45b",
+          "sha256": "fd889b0c8e36d19c0cf7a71860721375d70ee929baea932d01d048a6f67d987c",
+          "sha1": "8c8bc6200b71ac7b4e52ebd39e7880ce61b23285",
+          "md5": "82318fee623adfeca93e43e66ab16ac4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vibration_release-0.56.aar",
+          "url": "vibration_release-0.56.aar",
+          "size": 5670,
+          "sha512": "438671eeae568fb44f97b35fb6dd53ec5b65d27dc136268cb1b760a941b41961f1010d3ae4a0900ee554bbfb71b2d3ad4cf79b59afb8f07adf2a54a1b9b8c45b",
+          "sha256": "fd889b0c8e36d19c0cf7a71860721375d70ee929baea932d01d048a6f67d987c",
+          "sha1": "8c8bc6200b71ac7b4e52ebd39e7880ce61b23285",
+          "md5": "82318fee623adfeca93e43e66ab16ac4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_release-0.56-sources.jar",
+          "url": "vibration_release-0.56-sources.jar",
+          "size": 3212,
+          "sha512": "d5968737c6b71ee7b4cb2294798caa5ffcf06bad0dd878445306ce94d132e9f5ff482aa27ef53047940383b71edc6b41fb90e2571256fd4cb4ba2f80703a3df1",
+          "sha256": "9ba7f8c690080fa9025eb06a74fdae61feaaefdbcda9f88e01f7344479c831c5",
+          "sha1": "f366f2e24cf9806f2a34d2651525e7344789eaab",
+          "md5": "28ab8d7e2ed74e9a55bdf7586ad556c0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vibration_release-0.56-javadoc.jar",
+          "url": "vibration_release-0.56-javadoc.jar",
+          "size": 265469,
+          "sha512": "cfd93aa82b5439fca295642b316e394a529ecc7c6a6b47295439d9d0062fa9172d9136082dfc3173689670ac0d5ff1883eab54a31e9b53fd9e9dc128ad19b8d7",
+          "sha256": "b9a0fb917459e8cf7130f860f35f33ac5a63172896e5542cff9fed49607cb9c2",
+          "sha1": "baaff544b255d85d02edc1dbef8bdd296049219d",
+          "md5": "c35601faf1b24a62b98ccc40dfea6f34"
+        }
+      ]
+    }
+  ]
+}
