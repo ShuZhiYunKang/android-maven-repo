@@ -3,8 +3,8 @@
   <groupId>dev.fluttercommunity.plus.packageinfo</groupId>
   <artifactId>package_info_plus_release</artifactId>
   <versioning>
-    <latest>0.57</latest>
-    <release>0.57</release>
+    <latest>0.58</latest>
+    <release>0.58</release>
     <versions>
       <version>0.46</version>
       <version>0.47</version>
@@ -18,7 +18,8 @@
       <version>0.55</version>
       <version>0.56</version>
       <version>0.57</version>
+      <version>0.58</version>
     </versions>
-    <lastUpdated>20260604015331</lastUpdated>
+    <lastUpdated>20260611091522</lastUpdated>
   </versioning>
 </metadata>
