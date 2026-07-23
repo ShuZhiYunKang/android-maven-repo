@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "eu.simonbinder.sqlite3_flutter_libs",
+    "module": "sqlite3_flutter_libs_release",
+    "version": "0.59",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.59.aar",
+          "url": "sqlite3_flutter_libs_release-0.59.aar",
+          "size": 2673,
+          "sha512": "9ccb81867c970f65e00837dea8c26b2efe8f7def7ce79bcdaccb8f3853b4ee3a31471c4f14262afaad894a23f9e141c27fce88d364f988e061c31e6efcb4ab01",
+          "sha256": "8cf63eab197d3de2ba860a39158d81d96bfad62bd92ddc396e961d1b16f1ae2e",
+          "sha1": "d860b7f078f3b17859a8bfddddcd6f1b0d7552a2",
+          "md5": "ba8c589bb4ab1d0973bca3b2c751ab9d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-035316565ad77281a75305515e4682e6c4c6f7ca"
+          }
+        },
+        {
+          "group": "eu.simonbinder",
+          "module": "sqlite3-native-library",
+          "version": {
+            "requires": "3.52.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.59.aar",
+          "url": "sqlite3_flutter_libs_release-0.59.aar",
+          "size": 2673,
+          "sha512": "9ccb81867c970f65e00837dea8c26b2efe8f7def7ce79bcdaccb8f3853b4ee3a31471c4f14262afaad894a23f9e141c27fce88d364f988e061c31e6efcb4ab01",
+          "sha256": "8cf63eab197d3de2ba860a39158d81d96bfad62bd92ddc396e961d1b16f1ae2e",
+          "sha1": "d860b7f078f3b17859a8bfddddcd6f1b0d7552a2",
+          "md5": "ba8c589bb4ab1d0973bca3b2c751ab9d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.59-sources.jar",
+          "url": "sqlite3_flutter_libs_release-0.59-sources.jar",
+          "size": 1462,
+          "sha512": "72a2ddbe506e1d6e2730f00e041dea0f9c617b03138b525c6b88e0ef701b98a66fd1d6b75cd9b22a8ea26fce3e98b7a69945f10593749c1593670c595f78bb9d",
+          "sha256": "65510b847d970f272c2935de5b14f0489bd719bee3541f208bc72ba20e42e293",
+          "sha1": "cc4891fa470b28d66912771a1d113c24bb411027",
+          "md5": "78f2d9b7b35831e0a4e0ebe0e97d4aa4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqlite3_flutter_libs_release-0.59-javadoc.jar",
+          "url": "sqlite3_flutter_libs_release-0.59-javadoc.jar",
+          "size": 262085,
+          "sha512": "905ac816e9a235cbad79314199453fdd156122b7d657f089c68b077b2847a8a53998514de28216de0154ffaec9eb1088ce9b0e052cc8b09233877502f286f7e6",
+          "sha256": "c269f7204df07711ddbc9dbdf7c533448cbf88ce56710ef67d6f1876808b1c1b",
+          "sha1": "0495c58bbe04cceec3b708a1a9c36c85596bddba",
+          "md5": "d8a659f58f293e19199387a4e469d5ad"
+        }
+      ]
+    }
+  ]
+}
