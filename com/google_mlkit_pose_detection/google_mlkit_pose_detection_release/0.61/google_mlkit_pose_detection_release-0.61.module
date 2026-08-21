@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.google_mlkit_pose_detection",
+    "module": "google_mlkit_pose_detection_release",
+    "version": "0.61",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_pose_detection_release-0.61.aar",
+          "url": "google_mlkit_pose_detection_release-0.61.aar",
+          "size": 5000,
+          "sha512": "0a1d58c28dacd528966b796f6a4d25cd51e5bb55e09a602c3e35dcf3eef55e96a059bbfc473987d784a57e1f56214b9dcbecb91dc1452fe0632681087e2219b7",
+          "sha256": "99d0b1c56213a45cb8af843112d2cb27a8a207673749da15e7fc258afc782722",
+          "sha1": "7feea6a4212e5f68c72467be5351f1fcc8059133",
+          "md5": "7485f90474f4b1779e224eeb3536dc47"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "pose-detection",
+          "version": {
+            "requires": "18.0.0-beta5"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "pose-detection-accurate",
+          "version": {
+            "requires": "18.0.0-beta5"
+          }
+        },
+        {
+          "group": "com.google_mlkit_commons",
+          "module": "google_mlkit_commons_release",
+          "version": {
+            "requires": "0.61"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_pose_detection_release-0.61.aar",
+          "url": "google_mlkit_pose_detection_release-0.61.aar",
+          "size": 5000,
+          "sha512": "0a1d58c28dacd528966b796f6a4d25cd51e5bb55e09a602c3e35dcf3eef55e96a059bbfc473987d784a57e1f56214b9dcbecb91dc1452fe0632681087e2219b7",
+          "sha256": "99d0b1c56213a45cb8af843112d2cb27a8a207673749da15e7fc258afc782722",
+          "sha1": "7feea6a4212e5f68c72467be5351f1fcc8059133",
+          "md5": "7485f90474f4b1779e224eeb3536dc47"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_pose_detection_release-0.61-sources.jar",
+          "url": "google_mlkit_pose_detection_release-0.61-sources.jar",
+          "size": 2401,
+          "sha512": "a3805f36be74a753ec5a542d4c9fced7f086bb9a0b913e783307bdcccfb096785c2728a76f9ce203499111b9d8f9e3e5a10a8a3879d70c1e265a41c48a44016e",
+          "sha256": "1ed9fd69cc1e02fb8aa7352a6e38cc1ed5b5831dcf8bdb44aac4bacf53e29101",
+          "sha1": "2531e19021e313d9bbed0472bdb1bd1ca67e2715",
+          "md5": "907344119425fa710c54cdd7be2d47a0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_pose_detection_release-0.61-javadoc.jar",
+          "url": "google_mlkit_pose_detection_release-0.61-javadoc.jar",
+          "size": 266700,
+          "sha512": "34da67977dae7c549365cf8624d5a3b675ecd96b3b9ae67e690c8ac683bd497f7b2eb6901167ab8e434f2067c9a41b72910e1a9579b179f8401f5c3b5638fe16",
+          "sha256": "26eee52c9e2a92521204f038856fc81ee05838dcca33410b416c26915addc77d",
+          "sha1": "94d24ad730deb199cb0db318658fc5e938c5279d",
+          "md5": "17888633bd61f0803e27a24c5ef13529"
+        }
+      ]
+    }
+  ]
+}
