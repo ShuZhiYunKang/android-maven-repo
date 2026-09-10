@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+    "module": "flutter_plugin_android_lifecycle_release",
+    "version": "0.63",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-0.63.aar",
+          "url": "flutter_plugin_android_lifecycle_release-0.63.aar",
+          "size": 2501,
+          "sha512": "d5b9bb2b7b3bf676ee4d3b625771c8a6d05f618815906d4a48837d9a88ed1e9b7a1f85ec98f4e45e6b3657ffdd6bf6ff9965f7f60516236537bf22c082934890",
+          "sha256": "8af063fcef87b262a679623029b917269e3b4c7d398319b6c853ba742fcd849f",
+          "sha1": "440b58eb67f905dc7ea7f810fb8c61fb47182a1d",
+          "md5": "ebb83bc7aaea38306db2987ddc33637e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-0.63.aar",
+          "url": "flutter_plugin_android_lifecycle_release-0.63.aar",
+          "size": 2501,
+          "sha512": "d5b9bb2b7b3bf676ee4d3b625771c8a6d05f618815906d4a48837d9a88ed1e9b7a1f85ec98f4e45e6b3657ffdd6bf6ff9965f7f60516236537bf22c082934890",
+          "sha256": "8af063fcef87b262a679623029b917269e3b4c7d398319b6c853ba742fcd849f",
+          "sha1": "440b58eb67f905dc7ea7f810fb8c61fb47182a1d",
+          "md5": "ebb83bc7aaea38306db2987ddc33637e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-0.63-sources.jar",
+          "url": "flutter_plugin_android_lifecycle_release-0.63-sources.jar",
+          "size": 2659,
+          "sha512": "d848b9ac3a80bd88694f7d35de2abc2866f65393d53caa1f49513063e17fe497a4b7e1ed09dc3736f529a166f1491dfb78c703a51f0fe0950082488869f2b352",
+          "sha256": "2930f0a83f74dc7a57026b471c4443a3e5cb4f8b5f80bf45d161dd31675194c7",
+          "sha1": "82b1c36d1af62197547e6c132ae64f520e3ad7a7",
+          "md5": "fb7b3ee0458fe0f3ec0a8116c68f72ed"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-0.63-javadoc.jar",
+          "url": "flutter_plugin_android_lifecycle_release-0.63-javadoc.jar",
+          "size": 269830,
+          "sha512": "461c458214480c02b95f18539bfbd8c8f4b7e92766e8ff30b0fd18d687a366dea931fd2ff3b3e70f791e4c0daff7752d7ffec403a7de2faa291b5befd685c667",
+          "sha256": "feb6f21b454b80df1d00dce342644f193c504954417598ee509fca25abc6bbc9",
+          "sha1": "293f588c27a70218cc5e4e57de9fa8e695db7776",
+          "md5": "9f1992d0b93abe483a8912d7ae533ab5"
+        }
+      ]
+    }
+  ]
+}
