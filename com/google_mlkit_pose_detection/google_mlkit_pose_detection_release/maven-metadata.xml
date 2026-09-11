@@ -3,8 +3,8 @@
   <groupId>com.google_mlkit_pose_detection</groupId>
   <artifactId>google_mlkit_pose_detection_release</artifactId>
   <versioning>
-    <latest>0.64</latest>
-    <release>0.64</release>
+    <latest>0.65</latest>
+    <release>0.65</release>
     <versions>
       <version>0.59</version>
       <version>0.60</version>
@@ -12,7 +12,8 @@
       <version>0.62</version>
       <version>0.63</version>
       <version>0.64</version>
+      <version>0.65</version>
     </versions>
-    <lastUpdated>20260911012948</lastUpdated>
+    <lastUpdated>20260911102513</lastUpdated>
   </versioning>
 </metadata>
