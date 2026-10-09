@@ -111,11 +111,11 @@
         {
           "name": "google_sign_in_android_release-0.66-javadoc.jar",
           "url": "google_sign_in_android_release-0.66-javadoc.jar",
-          "size": 334886,
-          "sha512": "96c9b03eb85749f664c99f67d0e04b03c17aa3bcf9f1b47b1b1ddb55ba33f95edc61dec2b65875b6d30252a0e0d2aece3630d5ec30c085a6eaf497f89ccfea98",
-          "sha256": "a22c3be611b6c6cdcdba13f600369059a5f1d4ff707b3ede597df7e769907981",
-          "sha1": "52eea090fc5ba9e15bb89d58f6f03dc574b650b9",
-          "md5": "b9a0ba1bd6ee01d63fb3542f39a63e3c"
+          "size": 334900,
+          "sha512": "f63910bb070feeffb33fd071cae8f585d1f011411893b01f1a8c882a55a3ec8e128b6219d5244a87df39a6613f37518679aef7e2b9d7d984ddf143e4553ddbb6",
+          "sha256": "11ea3644a83d33e7263e8bb17140ce439031cd77a164b376c4fbe4f992db0927",
+          "sha1": "3ffff7f3d460fac8c79125f83cf935192a051448",
+          "md5": "efa31e2ce97f812758649cd007ba4211"
         }
       ]
     }
