@@ -3,8 +3,8 @@
   <groupId>io.flutter.plugins.inapppurchase</groupId>
   <artifactId>in_app_purchase_android_release</artifactId>
   <versioning>
-    <latest>0.68</latest>
-    <release>0.68</release>
+    <latest>0.69</latest>
+    <release>0.69</release>
     <versions>
       <version>0.46</version>
       <version>0.47</version>
@@ -29,7 +29,8 @@
       <version>0.66</version>
       <version>0.67</version>
       <version>0.68</version>
+      <version>0.69</version>
     </versions>
-    <lastUpdated>20261029004156</lastUpdated>
+    <lastUpdated>20261029080424</lastUpdated>
   </versioning>
 </metadata>
